@@ -1,0 +1,1089 @@
+	id	lang	sentence	sentence_target_non_neg		target_neg_count	sentence_source	target_id
+0	950300	slv	Volk ne more udomačil.	Volk  more udomačil.		1		
+1	1543687	slv	Volka se ne da udomačiti.	Volka se  da udomačiti.		1		
+2	1543699	slv	Nimam časa zate.	imam časa zate.		1		
+3	1790235	slv	Moj oče ni še nikoli bil v tujini.	Moj oče  še koli bil v tuji.		2		
+4	2115728	slv	"Ko sem o tem osnovnem vprašanju razmislil temeljito, sem prišel do zaključka, da razlika, ki jo priznani ljudje velikokrat opišejo kot ""znatno"" ali ""občutno"", med nepogrešljivima besedama ""pomemben"" in ""ključen"" ni precejšnja, ampak je kar zanemarljiva."	"Ko sem o tem osnovnem vprašanju razmislil temeljito, sem prišel do zaključka, da razlika, ki jo prizna ljudje velikokrat opišejo kot ""znatno"" ali ""občutno"", med nepogrešljivima besedama ""pomemben"" in ""ključen""  precejšnja, ampak je kar zanemarljiva."		1		
+5	2115731	slv	Ker je Chiro maček, ne mara ličijev.	Ker je Chiro maček,  mara ličijev.		1		
+6	2115904	slv	Nisem nosorog, nisem tiger, pa me vodijo v to pusto divjino.	sem nosorog, sem tiger, pa me vodijo v to pusto divjino.		2		
+7	2115959	slv	Nimam nobenih sester.	imam nobenih sester.		1		
+8	2125361	slv	Nočem prevesti te povedi.	hočem prevesti te povedi.		1		
+9	2148469	slv	Jaz ne ljubim sneg.	Jaz  ljubim sg.		1		
+10	2202463	slv	Nikogar ni v sobi.	Nikogar  v sobi.		1		
+11	2202465	slv	Ali ni nadležno?	Ali  nadležno?		1		
+12	2202466	slv	Ali ni zoprno?	Ali  zoprno?		1		
+13	2202467	slv	Kaj ni nadležno?	Kaj  nadležno?		1		
+14	2202468	slv	Kaj ni zoprno?	Kaj  zoprno?		1		
+15	2206316	slv	"Nikdar ne napiši besedi ""boršč"" in ""šči"" v nemščini!"	"Nikdar  napiši besedi ""boršč"" in ""šči"" v mščini!"		1		
+16	2413020	slv	Kruh ni svež.	Kruh  svež.		1		
+17	2439100	slv	Nočem delati pod temi pogoji.	hočem delati pod temi pogoji.		1		
+18	2603479	slv	Alkohol ne reši nobenega problema.	Alkohol  reši nobega problema.		1		
+19	2634867	slv	Jaz nisem zdravnik.	Jaz sem zdravnik.		1		
+20	2788499	slv	Nikoli ne bomo vedeli.	  bomo vedeli.		2		
+21	2859176	slv	Japonec ne bi nikoli naredil česa takega.	Japoc  bi  naredil česa takega.		2		
+22	2975733	slv	Po njegovih informacijah policisti v zvezi z dogodkom ne bodo podali nobene kazenske ovadbe.	Po njegovih informacijah policisti v zvezi z dogodkom  bodo podali nobe kazenske ovadbe.		1		
+23	3005141	slv	To ni res.	To je resnica.		1		
+24	3005196	slv	Nisem vas videl.	sem vas videl.		1		
+25	3005227	slv	Nič ne skrbi.	Nič  skrbi.		1		
+26	3011858	slv	Nimam nič denarja.	imam nič denarja.		1		
+27	3011914	slv	Vrata se ne zaprejo.	Vrata se  zaprejo.		1		
+28	3011915	slv	Vrata se ne odprejo.	Vrata se  odprejo.		1		
+29	3011938	slv	Upam, da ne bo jutri deževalo.	Upam, da  bo jutri deževalo.		1		
+30	3013186	slv	Še nikoli nisem bil tukaj.	Še  sem bil tukaj.		2		
+31	3013271	slv	Nič ne reci.	Nič  reci.		1		
+32	3087118	slv	Nimam kolesa.	imam kolo.		1		
+33	3120180	slv	Nikoli več naj ne bi bil videl svoje žene in družine.	 več naj  bi bil videl svoje že in druži.		2		
+34	3285507	slv	Žive vsi narodi, ki hrepéne dočakat’ dan: da, koder sonce hodi, prepir iz sveta bo pregnan, ko rojak prost bo vs’ak, ne vrag, le sosed bo mejak, ko rojak prost bo vs’ak, ne vrag, le sosed bo, ne vrag, le sosed bo mejak.	Žive vsi narodi, ki hrepé dočakat’ dan: da, koder sonce hodi, prepir iz sveta bo pregnan, ko rojak prost bo vs’ak,  vrag, le sosed bo mejak, ko rojak prost bo vs’ak,  vrag, le sosed bo,  vrag, le sosed bo mejak.		3		
+35	3298881	slv	To se ne zgodi pogosto.	To se  zgodi pogosto.		1		
+36	3476140	slv	To ne bo zadnjič.	To  bo zadnjič.		1		
+37	3476141	slv	Ko boš prišel nazaj, me ne bo več.	Ko boš prišel nazaj, me  bo več.		1		
+38	3476145	slv	Tudi z očali ne vidi dobro.	Tudi z očali  vidi dobro.		1		
+39	3476149	slv	Nikoli ne rečeš, da me ljubiš.	  rečeš, da me ljubiš.		2		
+40	3476160	slv	Med poukom ne smeš govoriti japonsko.	Med poukom  smeš govoriti japonsko.		1		
+41	3476161	slv	To ne bi smel biti tak problem.	To  bi smel biti tak problem.		1		
+42	3477069	slv	Tom in Mary ne hodita na isto šolo.	Tom in Mary  hodita na isto šolo.		1		
+43	3481154	slv	Samo pošasti ne jokajo.	Samo pošasti  jokajo.		1		
+44	3493367	slv	Sprašujem se, zakaj ni pojedel jabolka, ki mu je padlo na glavo.	Sprašujem se, zakaj  pojedel jabolka, ki mu je padlo na glavo.		1		
+45	3633428	slv	Nočem iti v šolo.	hočem iti v šolo.		1		
+46	3633430	slv	Nočem v šolo.	hočem v šolo.		1		
+47	3667501	slv	Vem, da Tom ni tvoj fant.	Vem, da Tom  tvoj fant.		1		
+48	3667520	slv	Nikoli ne vem, kaj reči ljudem, ki ne poznajo niti najosnovnejših dejstev, a se tega sploh ne zavedajo.	  vem, kaj reči ljudem, ki  poznajo niti najosnovjših dejstev, a se tega sploh  zavedajo.		4		
+49	3667522	slv	Glava me ne boli več.	Glava me  boli več.		1		
+50	3667527	slv	Zakaj ne bi šli v gore ta konec tedna?	Zakaj  bi šli v gore ta koc tedna?		1		
+51	3667529	slv	Nihče ni rekel ničesar.	Nihče  rekel česar.		1		
+52	3667532	slv	V Afriki ni deževalo že več kot en mesec.	V Afriki  deževalo že več kot en mesec.		1		
+53	3667534	slv	On ne trpi takšnega načina obnašanja.	On  trpi takšga načina obnašanja.		1		
+54	3667537	slv	Tom je prepričan, da Mary v resnici ni šla v Boston prejšnji teden.	Tom je prepričan, da Mary v resci  šla v Boston prejšnji teden.		1		
+55	3810545	slv	Portugalska ni izjema.	Portugalska  izjema.		1		
+56	3810553	slv	To ni bilo moje vprašanje.	To  bilo moje vprašanje.		1		
+57	3810556	slv	Nisem razumel tvojega vprašanja.	sem razumel tvojega vprašanja.		1		
+58	3810557	slv	Toma ne obtožujem ničesar.	Toma  obtožujem ničesar.		1		
+59	3811202	slv	Trenutno nimam načrta.	Trenutno imam načrta.		1		
+60	3811218	slv	Res ne lažem.	Res  lažem.		1		
+61	3811288	slv	Perzijščina ni težaven jezik.	Perzijščina  težaven jezik.		1		
+62	3811331	slv	Nisem razumela tvojega vprašanja.	sem razumela tvojega vprašanja.		1		
+63	3811339	slv	Danes ne morem priti, jutri pa tudi ne.	Das  morem priti, jutri pa tudi .		1		
+64	3811413	slv	Tvoj oči mi ni všeč.	Tvoj oči mi  všeč.		1		
+65	3811453	slv	Ruščina je slovanski jezik, ki ga govorijo v Rusiji, Belorusiji, Ukrajini, Kazahstanu in Kirgizistanu in je razširjen a ne uradno priznan v Latviji, Estoniji in mnogih drugih državah nekdanje Sovjetske zveze.	Ruščina je slovanski jezik, ki ga govorijo v Rusiji, Belorusiji, Ukrajini, Kazahstanu in Kirgizistanu in je razširjen a  uradno priznan v Latviji, Estoniji in mnogih drugih državah kdanje Sovjetske zveze.		1		
+66	3811458	slv	Hrana ni bila preveč okusna.	Hrana  bila preveč okusna.		1		
+67	3811477	slv	Če nočeš odgovoriti, ti ni treba.	Če nočeš odgovoriti, ti  treba.		1		
+68	3811495	slv	Res škoda, da je ne poznaš.	Res škoda, da je  poznaš.		1		
+69	3811496	slv	Res škoda, da ga ne poznaš.	Res škoda, da ga  poznaš.		1		
+70	3847522	slv	Kar je zakonito za Jupitra, ni zakonito za vole.	Kar je zakoto za Jupitra,  zakoto za vole.		1		
+71	3932354	slv	Ali si resnično ne želiš ničesar?	Ali si resnično  želiš ničesar?		1		
+72	4808361	slv	Marija ni imela moža.	Marija  imela moža.		1		
+73	5217162	slv	Če prideš v Rio me ne pozabi poklicat za vodiča!	Če prideš v Rio me  pozabi poklicat za vodiča!		1		
+74	5806566	slv	Francoščina ni težka.	Francoščina  težka.		1		
+75	5810494	slv	Imam dosti stvari, ki jih ne potrebujem.	Imam dosti stvari, ki jih  potrebujem.		1		
+76	5833764	slv	Obljubim, da te ne bom obsojal.	Obljubim, da te  bom obsojal.		1		
+77	5845840	slv	Nisem bila grozna.	sem bila grozna.		1		
+78	5845841	slv	Nisem bil grozen.	sem bil grozen.		1		
+79	5923095	slv	Ta slovar ni uporaben.	Ta slovar  uporaben.	Ta slovar je uporaben.	1		
+80	5923387	slv	Nihče ne gleda.	Nihče  gleda.		1		
+81	5965486	slv	Nisem ga poljubil jaz. On je poljubil mene.	sem ga poljubil jaz. On je poljubil mene.		1		
+82	5965489	slv	Nisem ga poljubila jaz. On je poljubil mene.	sem ga poljubila jaz. On je poljubil mene.		1		
+83	5965493	slv	Vej, da me ne strašiš.	Vej, da me  strašiš.		1		
+84	6029970	slv	Kot sem že rekel, ni problema.	Kot sem že rekel,  problema.		1		
+85	6029975	slv	Preprosto mi ni do tega.	Preprosto mi  do tega.		1		
+86	6597640	slv	Nihče dejansko ne doživlja resničnosti zahvaljujoč oligarhiji miljarderjev.	Nihče dejansko  doživlja resničnosti zahvaljujoč oligarhiji miljarderjev.		1		
+87	6597675	slv	Nihče ne želi priznati.	Nihče  želi priznati.		1		
+88	6597687	slv	Kmetovanje ni človeška usoda.	Kmetovanje  človeška usoda.		1		
+89	6597690	slv	Nikoli ne pozabi svoji mami poslati rojstnodnevnega darila.	  pozabi svoji mami poslati rojstnodvga darila.		2		
+90	6597720	slv	Resno, da ti ne bom prdnil na tvojo juho.	Resno, da ti  bom prdnil na tvojo juho.		1		
+91	6597752	slv	Nihče ne živi v resničosti, zahvaljujoč oligarhiji miljarderjev.	Nihče  živi v resničosti, zahvaljujoč oligarhiji miljarderjev.		1		
+92	6597768	slv	Resno, ne pripravi me do tega, da ti prdnem na juho.	Resno,  pripravi me do tega, da ti prdm na juho.		1		
+93	6597928	slv	Ko jim poveš se probaj ne smejati.	Ko jim poveš se probaj  smejati.		1		
+94	6598417	slv	Ona ni mlada.	Ona  mlada.		1		
+95	6598426	slv	Mislim da še nikoli nisem slišal tega imena.	Mislim da še  sem slišal tega imena.		2		
+96	6598641	slv	Hočem da mi obljubiš da ne boš komurkoli povedal tega kar si videl zadnje čase.	Hočem da mi obljubiš da  boš komurkoli povedal tega kar si videl zadnje čase.		1		
+97	6598933	slv	Želim, da mi obljubiš, da ne boš nikoli nikomur povedal, kaj si videl.	Želim, da mi obljubiš, da  boš  nikomur povedal, kaj si videl.		2		
+98	6598944	slv	To se ne bo zgodilo.	To se  bo zgodilo.		1		
+99	6598948	slv	Me ne preseneča.	Me  preseča.		1		
+100	6598965	slv	To ni bil moj namen.	To  bil moj namen.		1		
+101	6598968	slv	Ničesar drugega te ne bom vprašal danes.	Ničesar drugega te  bom vprašal das.		1		
+102	6599700	slv	Nikoli ne bom pozabil trenutka, ko sem v mojih rokah držal delfina.	  bom pozabil trenutka, ko sem v mojih rokah držal delfina.		2		
+103	6601761	slv	Maria ni Tomova sovražnica.	Maria  Tomova sovražca.		1		
+104	6603626	slv	Nikoli nisem slišal, da bi se Tom pritoževal.	 sem slišal, da bi se Tom pritoževal.		2		
+105	8020900	slv	Nočem biti različen.	hočem biti različen.		1		
+106	8143505	slv	Zato ne morem verjeti.	Zato  morem verjeti.		1		
+107	8143510	slv	Stavim, da se me ne spomniš.	Stavim, da se me  spomniš.		1		
+108	8160644	slv	Ob ponedeljkih ne delam.	Ob podeljkih  delam.		1		
+109	8560368	slv	Nočem da moja država postane članica Evropske unije.	hočem da moja država postane članica Evropske unije.		1		
+110	8808593	slv	Voda ni hladna.	Voda  hladna.		1		
+111	9142607	slv	Tega krompirja ni mogoče kuhati.	Tega krompirja  mogoče kuhati.		1		
+112	9142624	slv	On ni vojak.	On  vojak.		1		
+113	9142625	slv	Ona ni vojakinja.	Ona  vojakinja.		1		
+114	9142877	slv	Žal mi je, ampak vašega imena ni na seznamu.	Žal mi je, ampak vašega imena  na seznamu.		1		
+115	9226574	slv	Mislim, da Tom ne bo tu ves dan.	Mislim, da Tom  bo tu ves dan.		1		
+116	9226577	slv	Mariji sem že povedal, da ne mora iti na Tomovo zabavo.	Mariji sem že povedal, da  mora iti na Tomovo zabavo.		1		
+0	566090	slv	David Beckham je Anglež.	David Beckham ni Anglež.		1		
+1	948562	slv	Besedilo je zelo redigirano.	Besedilo ni zelo redigirano.		1		
+2	949075	slv	Maja Keuc je dobra pevka.	Maja Keuc ni dobra pevka.		1		
+3	949110	slv	Moje ime je Sally.	Moni ime ni Sally.		1		
+4	949422	slv	To je moj poštni naslov.	To ni moj poštni naslov.		1		
+5	949520	slv	Stric mi je povedal zgodbo v obliki šale.	Stric mi ni povedal zgodbo v obliki šale.		1		
+6	1043104	slv	Všeč mi je okcitanščina.	Všeč mi ni okcitanščina.		1		
+7	1168618	slv	Ena vdova je imela dve hčeri.	Ena vdova ni imela dve hčeri.		1		
+8	1474275	slv	Zemlja je manjša od Sonca.	Zemlja ni manjša od Sonca.		1		
+9	1475872	slv	Vojna je mir. Svoboda je suženjstvo. Neznanje je moč.	Vojna ni mir. Svoboda ni suženjstvo. Neznanni ni moč.		3		
+10	1499863	slv	Burdž Kalifa je trenutno najvišji nebotičnik na svetu.	Burdž Kalifa ni trenutno najvišji nebotičnik na svetu.		1		
+11	1518770	slv	Francija je v Zahodni Evropi.	Francija ni v Zahodni Evropi.		1		
+12	1533129	slv	Kristus je vstal!	Kristus ni vstal!		1		
+13	1543694	slv	Ta riba je neužitna.	Ta riba ni neužitna.		1		
+14	1543696	slv	Jane je prerasla svojo mati.	Jane ni prerasla svojo mati.		1		
+15	1543709	slv	Slovenska pevka Maja Kevc je bila rojena leta 1992.	Slovenska pevka Maja Kevc ni bila ronina leta 1992.		1		
+16	1543738	slv	Kje je moja pisarna?	Kni ni moja pisarna?		1		
+17	1543770	slv	Jutri je nedelja.	Jutri ni nedelja.		1		
+18	1566902	slv	Zaprl je vrata.	Zaprl ni vrata.		1		
+19	1566903	slv	To je izguba časa.	To ni izguba časa.		1		
+20	1566904	slv	Kalkulator na mizi je moj.	Kalkulator na mizi ni moj.		1		
+21	1790225	slv	Danes je nedelja.	Danes ni nedelja.		1		
+22	1790229	slv	Svojemu očetu je spletla pulover.	Svonimu očetu ni spletla pulover.		1		
+23	1790231	slv	Moja sestra je včeraj šla v Kobe.	Moja sestra ni včeraj šla v Kobe.		1		
+24	1807291	slv	Končno je petek.	Končno ni petek.		1		
+25	2115706	slv	Kar je rekla, je narobe.	Kar ni rekla, ni narobe.		2		
+26	2115707	slv	Tista ura je zelo lepa.	Tista ura ni zelo lepa.		1		
+27	2115711	slv	Slovnica je zelo zapletena.	Slovnica ni zelo zapletena.		1		
+28	2115763	slv	Prebral je pesem z glasnim glasom.	Prebral ni pesem z glasnim glasom.		1		
+29	2115894	slv	Povabil me je na zabavo.	Povabil me ni na zabavo.		1		
+30	2115947	slv	Govoril je v polomljeni angleščini, ki jo je bilo težko razumeti.	Govoril ni v polomlnini angleščini, ki jo ni bilo težko razumeti.		2		
+31	2115957	slv	Sanj je konec.	Sanj ni konec.		1		
+32	2116950	slv	Izgubil sem uro, ki mi jo je dal oče.	Izgubil nisem uro, ki mi jo ni dal oče.		2		
+33	2116952	slv	Izgubila sem uro, ki mi jo je dal oče.	Izgubila nisem uro, ki mi jo ni dal oče.		2		
+34	2117480	slv	Oče je prišel domov.	Oče ni prišel domov.		1		
+35	2117484	slv	Deset let je minilo, odkar je umrl moj oče.	Deset let ni minilo, odkar ni umrl moj oče.		2		
+36	2117490	slv	Smrt njegovega očeta ga je napolnila z žalostjo.	Smrt nnigovega očeta ga ni napolnila z žalostjo.		1		
+37	2117491	slv	Oče je izgubil službo, in kar je še slabše, mati je zbolela.	Oče ni izgubil službo, in kar ni še slabše, mati ni zbolela.		3		
+38	2117495	slv	Slišim, da je bil moj oče star toliko kot jaz, ko je prišel v Tokio.	Slišim, da ni bil moj oče star toliko kot jaz, ko ni prišel v Tokio.		2		
+39	2117496	slv	Moj oče mi je povedal o svojih izkušnjah med vojno.	Moj oče mi ni povedal o svojih izkušnjah med vojno.		1		
+40	2125372	slv	Bilo je nemogoče, da bi fant preplaval to reko.	Bilo ni nemogoče, da bi fant preplaval to reko.		1		
+41	2128042	slv	Kreacionizem je sranje.	Kreacionizem ni sranni.		1		
+42	2141757	slv	Cuj mojo skrivnost. Zelo preprosta je: Kdor hoce videti, mora gledati s srcem. Bistvo je ocem nevidno.	Cuj mojo skrivnost. Zelo preprosta ni: Kdor hoce videti, mora gledati s srcem. Bistvo ni ocem nevidno.		1		
+43	2148546	slv	On je moj najboljši prijatelj.	On ni moj najboljši prijatelj.		1		
+44	2155071	slv	Knjiga je mala.	Knjiga ni mala.		1		
+45	2155112	slv	On je genij.	On ni genij.		1		
+46	2155118	slv	Ta zemljišča je moja lastnina.	Ta zemljišča ni moja lastnina.		1		
+47	2155121	slv	London je glavno mesto Anglije.	London ni glavno mesto Anglini.		1		
+48	2155123	slv	On je blond.	On ni blond.		1		
+49	2202445	slv	V tej sobi je deset ljudi.	V tej sobi ni deset ljudi.		1		
+50	2202446	slv	Lahko je brati to knjigo.	Lahko ni brati to knjigo.		1		
+51	2202448	slv	Kaj se je zgodilo z ostalo hrano?	Kaj se ni zgodilo z ostalo hrano?		1		
+52	2202450	slv	Zavlačevanje: to je resen posel.	Zavlačevanje: to ni resen posel.		1		
+53	2202458	slv	Litva je članica Evropske unije.	Litva ni članica Evropske unije.		1		
+54	2202464	slv	Danes je bilo zabavno.	Danes ni bilo zabavno.		1		
+55	2294804	slv	To je trikotnik.	To ni trikotnik.		1		
+56	2421419	slv	Ženska je v sobi.	Ženska ni v sobi.		1		
+57	2448232	slv	Vsak je sam svoje sreče kovač.	Vsak ni sam svoni sreče kovač.		1		
+58	2448244	slv	Mož je šel mimo njega.	Mož ni šel mimo nniga.		1		
+59	2450137	slv	Puščavnik je oseba, ki živi preprosto in v samoti, zlasti iz verskih nagibov.	Puščavnik ni oseba, ki živi preprosto in v samoti, zlasti iz verskih nagibov.		1		
+60	2455250	slv	Končno mi je uspelo prečkati reko.	Končno mi ni uspelo prečkati reko.		1		
+61	2499872	slv	Maslo je izdelano iz mleka.	Maslo ni izdelano iz mleka.		1		
+62	2501118	slv	Včeraj je bila nedelja.	Včeraj ni bila nedelja.		1		
+63	2501127	slv	Da, ime mi je Karen Smith.	Da, ime mi ni Karen Smith.		1		
+64	2501132	slv	Kje je tvoj oče?	Kni ni tvoj oče?		1		
+65	2618435	slv	Vreme je sončno.	Vreme ni sončno.		1		
+66	2618511	slv	Kajenje je prepovedano v vsakem delu restavracije.	Kaninni ni prepovedano v vsakem delu restavracini.		1		
+67	2621180	slv	Strah me je višine.	Strah me ni višine.		1		
+68	2621184	slv	Moje življenje je protislovje.	Moni živlninni ni protislovni.		1		
+69	2788473	slv	Lev je kralj džungle.	Lev ni kralj džungle.		1		
+70	2788479	slv	Noč čarovnic je praznoval v oktobru.	Noč čarovnic ni praznoval v oktobru.		1		
+71	2788481	slv	Glasba je ljubezen.	Glasba ni ljubezen.		1		
+72	2788497	slv	Kakšne barve je ta riba?	Kakšne barve ni ta riba?		1		
+73	2788498	slv	Všeč mi je igrati klavir.	Všeč mi ni igrati klavir.		1		
+74	3004541	slv	Kakšno je menjalno razmerje?	Kakšno ni menjalno razmerni?		1		
+75	3005129	slv	To je moj avto.	To ni moj avto.		1		
+76	3005187	slv	Njeno stanovanje je zmeraj čisto.	Nnino stanovanni ni zmeraj čisto.		1		
+77	3005194	slv	Kaj se mu je zgodilo?	Kaj se mu ni zgodilo?		1		
+78	3005198	slv	Koliko je star?	Koliko ni star?		1		
+79	3006300	slv	Ona je podobna mami.	Ona ni podobna mami.		1		
+80	3007699	slv	To je začetek nove dobe.	To ni začetek nove dobe.		1		
+81	3041459	slv	To je laž!	To ni laž!		1		
+82	3081208	slv	Ljudi veliko bolj skrbi večnost po njihovi smrti kot pa večnost, ki se je zgodila še preden so se rodili. Gre pa za enako količino neskončnosti, ki se, od koder stojimo, razteza na vse strani.	Ljudi veliko bolj skrbi večnost po njihovi smrti kot pa večnost, ki se ni zgodila še preden so se rodili. Gre pa za enako količino neskončnosti, ki se, od koder stojimo, razteza na vse strani.		1		
+83	3114132	slv	Monarh je imel šest sinov.	Monarh ni imel šest sinov.		1		
+84	3119715	slv	Njegov govor me je zelo navdušil.	Nnigov govor me ni zelo navdušil.		1		
+85	3119717	slv	Njegova zgodba me je strašno navdušila.	Nnigova zgodba me ni strašno navdušila.		1		
+86	3119719	slv	Naprava je navdušila vse.	Naprava ni navdušila vse.		1		
+87	3119720	slv	Tom je bil navdušen nad tem.	Tom ni bil navdušen nad tem.		1		
+88	3119724	slv	Mary je zelo ganjena.	Mary ni zelo gannina.		1		
+89	3298894	slv	Kaj je rekla?	Kaj ni rekla?		1		
+90	3298949	slv	On je moj sosed.	On ni moj sosed.		1		
+91	3475222	slv	Gospod Jackson je nekako vedel, da je Tom naredil mojo nalogo.	Gospod Jackson ni nekako vedel, da ni Tom naredil mojo nalogo.		2		
+92	3475223	slv	Tom je naredil nekaj slovničnih napak.	Tom ni naredil nekaj slovničnih napak.		1		
+93	3475224	slv	Tom je svojemu sinu zapustil veliko denarja.	Tom ni svonimu sinu zapustil veliko denarja.		1		
+94	3475234	slv	Z njim je šla v kino.	Z njim ni šla v kino.		1		
+95	3475240	slv	Tom je sliko vrnil Mary.	Tom ni sliko vrnil Mary.		1		
+96	3475241	slv	Neuma je in grda.	Neuma ni in grda.		1		
+97	3476142	slv	Tom je začel prižigati sveče na mizi.	Tom ni začel prižigati sveče na mizi.		1		
+98	3476151	slv	Že tri leta je mrtev.	Že tri leta ni mrtev.		1		
+99	3476155	slv	Tom je ostal miren.	Tom ni ostal miren.		1		
+100	3476166	slv	V steklenici je ostalo še nekaj mleka.	V steklenici ni ostalo še nekaj mleka.		1		
+101	3477075	slv	Zlomil si je roko.	Zlomil si ni roko.		1		
+102	3477077	slv	Skoraj vse je bilo izboljšano.	Skoraj vse ni bilo izboljšano.		1		
+103	3481151	slv	Potnikom je pokazala, kako si pripeti pas.	Potnikom ni pokazala, kako si pripeti pas.		1		
+104	3481152	slv	Mary je pustila, da jo Tom poljubi.	Mary ni pustila, da jo Tom poljubi.		1		
+105	3481156	slv	Po močnem deževju je reka poplavila bregove.	Po močnem deževju ni reka poplavila bregove.		1		
+106	3481157	slv	Mislim, da je čas, da Tom gre.	Mislim, da ni čas, da Tom gre.		1		
+107	3486087	slv	Mary je zmedena.	Mary ni zmedena.		1		
+108	3486096	slv	Tom je popil svojo kavo.	Tom ni popil svojo kavo.		1		
+109	3486099	slv	Odrasla je v prelepo žensko.	Odrasla ni v prelepo žensko.		1		
+110	3486107	slv	Njegova mati je Jugoslovanka.	Nnigova mati ni Jugoslovanka.		1		
+111	3486110	slv	Tom je imel srečno otroštvo.	Tom ni imel srečno otroštvo.		1		
+112	3493362	slv	V sobi je bila tišina.	V sobi ni bila tišina.		1		
+113	3493365	slv	Zadnjih nekaj dni je bil bolan.	Zadnjih nekaj dni ni bil bolan.		1		
+114	3493371	slv	Nesreča se je zgodila včeraj zjutraj.	Nesreča se ni zgodila včeraj zjutraj.		1		
+115	3559524	slv	Detektiv je oseba, ki nekaj razkriva.	Detektiv ni oseba, ki nekaj razkriva.		1		
+116	3582940	slv	Aimee je trenutno zelo utrujena.	Aimee ni trenutno zelo utrunina.		1		
+117	3582941	slv	To je televizija.	To ni televizija.		1		
+118	3582942	slv	To je šola.	To ni šola.		1		
+119	3667393	slv	Izjemno občutljiva je na mraz.	Iznimno občutljiva ni na mraz.		1		
+120	3667397	slv	Virus je pokosil mnogo slonov v Afriki.	Virus ni pokosil mnogo slonov v Afriki.		1		
+121	3667402	slv	Tom je moj najboljši prijatelj.	Tom ni moj najboljši prijatelj.		1		
+122	3667410	slv	Od celodnevne hoje je bil popolnoma utrujen.	Od celodnevne honi ni bil popolnoma utrunin.		1		
+123	3667415	slv	Švica je zelo lepa dežela, vredna obiska.	Švica ni zelo lepa dežela, vredna obiska.		1		
+124	3667450	slv	Tom misli, da je Mary res naduta.	Tom misli, da ni Mary res naduta.		1		
+125	3667464	slv	To je priročno.	To ni priročno.		1		
+126	3667466	slv	Trenutno je bolnik izven nevarnosti.	Trenutno ni bolnik izven nevarnosti.		1		
+127	3667470	slv	Več ljudi je stalo pred obvestilom.	Več ljudi ni stalo pred obvestilom.		1		
+128	3667499	slv	Tom je dvignil kozarec in naredil velik požirek vina.	Tom ni dvignil kozarec in naredil velik požirek vina.		1		
+129	3667500	slv	Tvoj konec je blizu.	Tvoj konec ni blizu.		1		
+130	3667518	slv	Učitelj je zabaval učence.	Učitelj ni zabaval učence.		1		
+131	3668641	slv	BBC je moj najljubši program.	BBC ni moj najljubši program.		1		
+132	3668662	slv	Osebna svoboda je bistvo demokracije.	Osebna svoboda ni bistvo demokracini.		1		
+133	3810544	slv	Deseti september je svetovni dan preprečevanja samomorov.	Deseti september ni svetovni dan preprečevanja samomorov.		1		
+134	3810548	slv	Tom je moral v vrsti čakati tri ure.	Tom ni moral v vrsti čakati tri ure.		1		
+135	3810549	slv	Pomahala je z obema rokama da bi jo lahko našel.	Pomahala ni z obema rokama da bi jo lahko našel.		1		
+136	3810552	slv	Jack je v službi v obupu dal odpoved.	Jack ni v službi v obupu dal odpoved.		1		
+137	3810582	slv	Bilo je točno tam, kje je Tom rekel da bo.	Bilo ni točno tam, kni ni Tom rekel da bo.		2		
+138	3810584	slv	Ko je prišel sem bral/a pismo.	Ko ni prišel nisem bral/a pismo.		2		
+139	3810586	slv	Zaprl se je v svojo sobo.	Zaprl se ni v svojo sobo.		1		
+140	3811182	slv	Kdo je to naslikal?	Kdo ni to naslikal?		1		
+141	3811201	slv	Toliko ljudi je precej starejših od tebe.	Toliko ljudi ni precej starejših od tebe.		1		
+142	3811209	slv	Angleščina je jezik, ki ga govorijo po vsem svetu.	Angleščina ni nizik, ki ga govorijo po vsem svetu.		1		
+143	3811213	slv	Tom si je s čela obrisal znoj.	Tom si ni s čela obrisal znoj.		1		
+144	3811215	slv	Mary si je s čela obrisala znoj.	Mary si ni s čela obrisala znoj.		1		
+145	3811225	slv	Mary mu je dala poljub na obe lici.	Mary mu ni dala poljub na obe lici.		1		
+146	3811227	slv	Tom ji je dal poljub na obe lici.	Tom ji ni dal poljub na obe lici.		1		
+147	3811233	slv	Obiskat ga je prišla mlada dama.	Obiskat ga ni prišla mlada dama.		1		
+148	3811299	slv	Jazbec je ugriznil fanta.	Jazbec ni ugriznil fanta.		1		
+149	3811311	slv	Kovanec je narejen iz zlata.	Kovanec ni narenin iz zlata.		1		
+150	3811336	slv	Naravni logaritem e-ja je 1.	Naravni logaritem e-ja ni 1.		1		
+151	3811357	slv	Mis Kolumbije je bolj privlačna in lepša od mis Venezuele.	Mis Kolumbini ni bolj privlačna in lepša od mis Venezuele.		1		
+152	3811376	slv	"Pesem ""I Am Woman"" Helene Reddy je postala neuradna himna ženskega osvobodilnega gibanja."	"Pesem ""I Am Woman"" Helene Reddy ni postala neuradna himna ženskega osvobodilnega gibanja."		1		
+153	3811379	slv	Življenjepis je samo reklama.	Živlninnipis ni samo reklama.		1		
+154	3811381	slv	Tom je bil presenečen, da je bila Mary še vedno pokonci.	Tom ni bil presenečen, da ni bila Mary še vedno pokonci.		2		
+155	3811385	slv	Tom je umrl v Rimu.	Tom ni umrl v Rimu.		1		
+156	3811399	slv	Grozen teden je bil.	Grozen teden ni bil.		1		
+157	3811400	slv	Tom je kričal.	Tom ni kričal.		1		
+158	3811403	slv	Tom se je drl.	Tom se ni drl.		1		
+159	3811405	slv	Tom je vpil.	Tom ni vpil.		1		
+160	3811406	slv	Tom je jokal.	Tom ni jokal.		1		
+161	3811407	slv	Bil je idol.	Bil ni idol.		1		
+162	3811423	slv	Bila je nesrečna.	Bila ni nesrečna.		1		
+163	3811425	slv	Zelo je bila bleda.	Zelo ni bila bleda.		1		
+164	3811430	slv	Zanimivo je bilo.	Zanimivo ni bilo.		1		
+165	3811433	slv	Bil je božič.	Bil ni božič.		1		
+166	3811459	slv	Tla je pokrival sneg.	Tla ni pokrival sneg.		1		
+167	3811464	slv	Vsak dan se je učil uro in pol.	Vsak dan se ni učil uro in pol.		1		
+168	3811466	slv	Njihova iskrenost je dvomljiva.	Njihova iskrenost ni dvomljiva.		1		
+169	3811468	slv	Njihova iskrenost je vprašljiva.	Njihova iskrenost ni vprašljiva.		1		
+170	3811486	slv	Zalil je rožni grm.	Zalil ni rožni grm.		1		
+171	3811489	slv	Tom se je počasi umaknil.	Tom se ni počasi umaknil.		1		
+172	3811494	slv	"Beseda ""злой"" je edini ruski pridevnik z le enim zlogom."	"Beseda ""злой"" ni edini ruski pridevnik z le enim zlogom."		1		
+173	3932350	slv	Dan, priča kriminalnega dejanja, je poklical policijo.	Dan, priča kriminalnega dejanja, ni poklical policijo.		1		
+174	3941312	slv	Lišček je zelo zanimiva ptica.	Lišček ni zelo zanimiva ptica.		1		
+175	4439357	slv	Ironija je v tem, da so njegove slike zdaj vredne milijone, čeprav je za življenja trpel revščino.	Ironija ni v tem, da so nnigove slike zdaj vredne milijone, čeprav ni za živlninja trpel revščino.		2		
+176	4808253	slv	Moja denarnica je bila ukradla, zaradi tega moram poklicati policijo.	Moja denarnica ni bila ukradla, zaradi tega moram poklicati policijo.		1		
+177	4808336	slv	Lizbona je glavno mesto Portugalske.	Lizbona ni glavno mesto Portugalske.		1		
+178	4808338	slv	Kje je moj dežnik?	Kni ni moj dežnik?		1		
+179	4841488	slv	Kuj železo, dokler je vroče.	Kuj železo, dokler ni vroče.		1		
+180	5529553	slv	Na mizi je jabolko.	Na mizi ni jabolko.		1		
+181	5780224	slv	Moje ime je Ricardo.	Moni ime ni Ricardo.		1		
+182	5806539	slv	Šla je sama v kino.	Šla ni sama v kino.		1		
+183	5806550	slv	Vemo, da se je rodila v Kanadi.	Vemo, da se ni rodila v Kanadi.		1		
+184	5806552	slv	Tom je pojedel rezino švicarskega sira.	Tom ni ponidel rezino švicarskega sira.		1		
+185	5806560	slv	Razveselilo me je tvoje pismo.	Razveselilo me ni tvoni pismo.		1		
+186	5806561	slv	Njegov sin se je tresel od strahu.	Nnigov sin se ni tresel od strahu.		1		
+187	5810477	slv	To je Brian Rock.	To ni Brian Rock.		1		
+188	5810485	slv	On je zgolj gledalec.	On ni zgolj gledalec.		1		
+189	5833759	slv	Koliko ti je Tom dolžan?	Koliko ti ni Tom dolžan?		1		
+190	5833776	slv	Tom je trenutno v redu.	Tom ni trenutno v redu.		1		
+191	5833779	slv	Tom je bil avtomehanik.	Tom ni bil avtomehanik.		1		
+192	5833783	slv	Tom je zelo vljuden mladenič.	Tom ni zelo vljuden mladenič.		1		
+193	5845790	slv	Sovražnik mojega sovražnika je moj prijatelj.	Sovražnik moniga sovražnika ni moj prijatelj.		1		
+194	5845793	slv	Oče je še vedno v postelji.	Oče ni še vedno v postelji.		1		
+195	5845799	slv	Nenadoma me je zaprosil.	Nenadoma me ni zaprosil.		1		
+196	5845844	slv	Fotografiral je koalo.	Fotografiral ni koalo.		1		
+197	5845845	slv	Dogodek je vplival na njegovo prihodnost.	Dogodek ni vplival na nnigovo prihodnost.		1		
+198	5880865	slv	Dunaj je glavno mesto Avstrije.	Dunaj ni glavno mesto Avstrini.		1		
+199	5923103	slv	Nekdo jo je zastrupil.	Nekdo jo ni zastrupil.		1		
+200	5923391	slv	To zgodbo mi je povedal prijatelj.	To zgodbo mi ni povedal prijatelj.		1		
+201	5965451	slv	Moja mačka je lačna	Moja mačka ni lačna		1		
+202	5965460	slv	Bila je prijazna do vseh.	Bila ni prijazna do vseh.		1		
+203	5965471	slv	Zdelo se je, da ga je vprašanje presenetilo.	Zdelo se ni, da ga ni vprašanni presenetilo.		1		
+204	5965485	slv	Zdeo se je, da jo je vprašanje presenetilo.	Zdeo se ni, da jo ni vprašanni presenetilo.		1		
+205	6029966	slv	Škodilo je njegovemu ugledu.	Škodilo ni nnigovemu ugledu.		1		
+206	6029969	slv	Tista ladja je na poti na Finsko.	Tista ladja ni na poti na Finsko.		1		
+207	6597452	slv	Tom je v resnih težavah.	Tom ni v resnih težavah.		1		
+208	6597460	slv	Počutil se je prazno.	Počutil se ni prazno.		1		
+209	6597619	slv	Znotraj se je počutil praznega.	Znotraj se ni počutil praznega.		1		
+210	6597626	slv	Tom je najbolj kul opica v džungli.	Tom ni najbolj kul opica v džungli.		1		
+211	6597650	slv	Kje je najbližja delavnica za popravilo didgeridoo-jev?	Kni ni najbližja delavnica za popravilo didgeridoo-niv?		1		
+212	6597661	slv	Tom je odvisnik.	Tom ni odvisnik.		1		
+213	6597664	slv	Večerja se je ohladila.	Večerja se ni ohladila.		1		
+214	6597677	slv	Kaj je ta neznosen hrup?	Kaj ni ta neznosen hrup?		1		
+215	6597688	slv	Tom je odvisnež	Tom ni odvisnež		1		
+216	6597693	slv	Kje je juha?	Kni ni juha?		1		
+217	6597695	slv	Na tem milu je las.	Na tem milu ni las.		1		
+218	6597710	slv	Kaj je ta grozni hrup?	Kaj ni ta grozni hrup?		1		
+219	6597724	slv	Sladoled je ena izmed najslabših jedi, iz zdravstvenega vidika, ki jih lahko poješ.	Sladoled ni ena izmed najslabših nidi, iz zdravstvenega vidika, ki jih lahko poniš.		1		
+220	6597755	slv	Predvideval sem, da je Mary Tomova punca.	Predvideval sem, da ni Mary Tomova punca.		1		
+221	6597757	slv	Tom je vprašal Mary, če bi to želela početi danes.	Tom ni vprašal Mary, če bi to želela početi danes.		1		
+222	6597765	slv	Tom je v resnih težavah	Tom ni v resnih težavah		1		
+223	6597770	slv	To je za dobrodelne namene.	To ni za dobrodelne namene.		1		
+224	6597772	slv	Streha je potrebna popravila.	Streha ni potrebna popravila.		1		
+225	6597775	slv	Riž in kvinoja sta varni žiti je rekla Mary.	Riž in kvinoja sta varni žiti ni rekla Mary.		1		
+226	6597778	slv	"Riž in kvinoja sta varni žiti, je rekla Mary. ""Kaj? Zakaj?"" je rekel Tom."	"Riž in kvinoja sta varni žiti, ni rekla Mary. ""Kaj? Zakaj?"" ni rekel Tom."		2		
+227	6597787	slv	Kdo je tvoj najljubši youtuber?	Kdo ni tvoj najljubši youtuber?		1		
+228	6597927	slv	Koliko je ura v Buffalo, New York?	Koliko ni ura v Buffalo, New York?		1		
+229	6598397	slv	Kupil je nov par rokavic.	Kupil ni nov par rokavic.		1		
+230	6598413	slv	Tom je odličen govorec.	Tom ni odličen govorec.		1		
+231	6598418	slv	Sumatra je otok.	Sumatra ni otok.		1		
+232	6598423	slv	Postalo je jasno, kakšen je življenski stil osumljenca Miure v zaporu.	Postalo ni jasno, kakšen ni živlninski stil osumlninca Miure v zaporu.		2		
+233	6598435	slv	Vsaka je bila šokirana nad pogledom.	Vsaka ni bila šokirana nad pogledom.		1		
+234	6598445	slv	Sami je hotel malo vode.	Sami ni hotel malo vode.		1		
+235	6598449	slv	Se mi je zdelo, da bo Tom tukaj.	Se mi ni zdelo, da bo Tom tukaj.		1		
+236	6598548	slv	Tom lahko dokaže, da je odplačal svoj dolg.	Tom lahko dokaže, da ni odplačal svoj dolg.		1		
+237	6598568	slv	Tom je v hudih težavah.	Tom ni v hudih težavah.		1		
+238	6598575	slv	V sebi je čutil praznino.	V sebi ni čutil praznino.		1		
+239	6598583	slv	Tom je odvisnik	Tom ni odvisnik		1		
+240	6598585	slv	Večerja se je shladila.	Večerja se ni shladila.		1		
+241	6598589	slv	Streho je treba popraviti.	Streho ni treba popraviti.		1		
+242	6598591	slv	Kaj je ta obupen zvok?	Kaj ni ta obupen zvok?		1		
+243	6598687	slv	Moje ime je Janez.	Moni ime ni Janez.		1		
+244	6598936	slv	V kino je šla sama.	V kino ni šla sama.		1		
+245	6598938	slv	Verjemi mi, ta situacija je neprijetna tudi zame.	Vernimi mi, ta situacija ni neprinitna tudi zame.		1		
+246	6599698	slv	Pes je zadovoljen/srečen	Pes ni zadovolnin/srečen		1		
+247	6600808	slv	Ta kisikov rezervoar je seksi	Ta kisikov rezervoar ni seksi		1		
+248	6601124	slv	Ima tiste slabe tetovaže in zdaj mu je žal.	Nema tiste slabe tetovaže in zdaj mu ni žal.		2		
+249	6601125	slv	Njegov pes je starejši od mene.	Nnigov pes ni starejši od mene.		1		
+250	6601174	slv	Kdo je moj nasprotnik?	Kdo ni moj nasprotnik?		1		
+251	6601175	slv	Kaj je zate ljubezen?	Kaj ni zate ljubezen?		1		
+252	6601176	slv	Marija je tudi skrbela za živali.	Marija ni tudi skrbela za živali.		1		
+253	6601177	slv	Tako je življenje, žal.	Tako ni živlninni, žal.		1		
+254	6601183	slv	Ti je všeč moja brada?	Ti ni všeč moja brada?		1		
+255	6601184	slv	Tom se je nenadoma ustavil.	Tom se ni nenadoma ustavil.		1		
+256	6601188	slv	Potipala je po torbici za njenim prstanom.	Potipala ni po torbici za nninim prstanom.		1		
+257	6601198	slv	Kaj je bilo v pečici?	Kaj ni bilo v pečici?		1		
+258	6601199	slv	On je v mojem razredu.	On ni v monim razredu.		1		
+259	6601200	slv	Končno je zbrala pogum in ga vprašala za več denarja.	Končno ni zbrala pogum in ga vprašala za več denarja.		1		
+260	6601261	slv	Marija je prav tako skrbela za živela.	Marija ni prav tako skrbela za živela.		1		
+261	6601352	slv	Moj prednik je bil konjenik iz Mongolije.	Moj prednik ni bil konninik iz Mongolini.		1		
+262	6601759	slv	Zunaj je mraz, ti si pa topel.	Zunaj ni mraz, ti si pa topel.		1		
+263	6601760	slv	Kdo je že buden?	Kdo ni že buden?		1		
+264	6603625	slv	''Tom, kako je ime tvojemu psu?'' je vprašal njegov sosed.	''Tom, kako ni ime tvonimu psu?'' ni vprašal nnigov sosed.		2		
+265	6627586	slv	Kakšen je njihov odgovor?	Kakšen ni njihov odgovor?		1		
+266	6627588	slv	Ta kraj je zelo prijeten.	Ta kraj ni zelo priniten.		1		
+267	6627589	slv	Lastnikova razlaga je jasna.	Lastnikova razlaga ni jasna.		1		
+268	6627592	slv	Voda je zelo vroča.	Voda ni zelo vroča.		1		
+269	7303427	slv	Kje je pitna voda?	Kni ni pitna voda?		1		
+270	8159223	slv	Danes je obupno vroče.	Danes ni obupno vroče.		1		
+271	8159225	slv	Danes je grozno vroče.	Danes ni grozno vroče.		1		
+272	8159277	slv	Otrok je potreboval veliko časa, da je našel Liso.	Otrok ni potreboval veliko časa, da ni našel Liso.		2		
+273	8159281	slv	Ta punčka je strašljiva.	Ta punčka ni strašljiva.		1		
+274	8553877	slv	Vesolje je skrivnost.	Vesolni ni skrivnost.		1		
+275	8689674	slv	To je snežak.	To ni snežak.		1		
+276	8697235	slv	Finančno stanje mesta je slabo.	Finančno stanni mesta ni slabo.		1		
+277	8697247	slv	V moji sobi je telefon.	V moji sobi ni telefon.		1		
+278	8697256	slv	Ta knjiga je težko razumljiva.	Ta knjiga ni težko razumljiva.		1		
+279	8697266	slv	Ta knjiga je zelo uporabna.	Ta knjiga ni zelo uporabna.		1		
+280	8697273	slv	Besedilo je zelo predelano.	Besedilo ni zelo predelano.		1		
+281	8697282	slv	Ime mi je Sally.	Ime mi ni Sally.		1		
+282	8947976	slv	Nikozija je glavno mesto Cipra.	Nikozija ni glavno mesto Cipra.		1		
+283	9142608	slv	Kaj mi je povedal?	Kaj mi ni povedal?		1		
+284	9142609	slv	Kje je Subway?	Kni ni Subway?		1		
+285	9142622	slv	Tom je ostal v postelji do kosila.	Tom ni ostal v postelji do kosila.		1		
+286	9142633	slv	Moški je ubil žensko.	Moški ni ubil žensko.		1		
+287	9142635	slv	A je arabec?	A ni arabec?		1		
+288	9142641	slv	A je arabka?	A ni arabka?		1		
+289	9142650	slv	Ime mi je Tom.	Ime mi ni Tom.		1		
+290	9142866	slv	Karl Valentin je bil filozof.	Karl Valentin ni bil filozof.		1		
+291	9226395	slv	Za Alžirijo je gas strateška dobrina.	Za Alžirijo ni gas strateška dobrina.		1		
+292	9226570	slv	Povedal mi je, da je pravkar to storil.	Povedal mi ni, da ni pravkar to storil.		1		
+293	9226576	slv	Tom je rekel, da misli da bo njegova ekipa zmagala.	Tom ni rekel, da misli da bo nnigova ekipa zmagala.		1		
+294	944591	slv	Počutil sem se slabo.	Počutil nisem se slabo.		1		
+295	948442	slv	Izgubil sem moj potni list!	Izgubil nisem moj potni list!		1		
+296	1543692	slv	Pripravljen sem vam pomagati.	Pripravljen nisem vam pomagati.		1		
+297	2115685	slv	Sem na Portugalskem.	Nisem na Portugalskem.		1		
+298	2115702	slv	Hočem kupiti nov avto.	Nočem kupiti nov avto.		1		
+299	2115754	slv	Danes imam bolečine v vratu.	Danes nimam bolečine v vratu.		1		
+300	2115758	slv	Prepričal sem ga, da se posvetuje z zdravnikom.	Prepričal nisem ga, da se posvetuje z zdravnikom.		1		
+301	2115884	slv	To knjigo sem dobil od njega.	To knjigo nisem dobil od njega.		1		
+302	2115885	slv	To knjigo sem dobila od njega.	To knjigo nisem dobila od njega.		1		
+303	2115897	slv	Bob ima navado, da gre v posteljo ob 10:00.	Bob nema navado, da gre v posteljo ob 10:00.		1		
+304	2115903	slv	V tujini sem živel 10 let.	V tujini nisem živel 10 let.		1		
+305	2117481	slv	Svojemu očetu sem pomagal zaliti rože.	Svojemu očetu nisem pomagal zaliti rože.		1		
+306	2117482	slv	Svojemu očetu sem pomagala zaliti rože.	Svojemu očetu nisem pomagala zaliti rože.		1		
+307	2145303	slv	Kje imaš ključe?	Kje nemaš ključe?		1		
+308	2149767	slv	Jaz sem Gregor.	Jaz nisem Gregor.		1		
+309	2155090	slv	Jaz sem srečen.	Jaz nisem srečen.		1		
+310	2155091	slv	Jaz sem srečna.	Jaz nisem srečna.		1		
+311	2394446	slv	Imam veliko knjig.	Nimam veliko knjig.		1		
+312	2413017	slv	Imam dve mački.	Nimam dve mački.		1		
+313	2450718	slv	Lačen sem kot volk.	Lačen nisem kot volk.		1		
+314	2620599	slv	Jaz sem v restavraciji.	Jaz nisem v restavraciji.		1		
+315	2788476	slv	Imam belo mačko.	Nimam belo mačko.		1		
+316	2788492	slv	Imam nič se pritoževati.	Nimam nič se pritoževati.		1		
+317	2859169	slv	Mislim, da imaš prav.	Mislim, da nemaš prav.		1		
+318	2914787	slv	Hočem napisati knjigo.	Nočem napisati knjigo.		1		
+319	3004534	slv	Izgubil sem denarnico.	Izgubil nisem denarnico.		1		
+320	3005101	slv	Sem utrujen!	Nisem utrujen!		1		
+321	3005105	slv	Jaz sem v Rusiji.	Jaz nisem v Rusiji.		1		
+322	3005169	slv	Včeraj sem jo videl.	Včeraj nisem jo videl.		1		
+323	3005185	slv	Čisto vse sem ti povedal.	Čisto vse nisem ti povedal.		1		
+324	3005211	slv	Maria ima dolge lase.	Maria nema dolge lase.		1		
+325	3011862	slv	Imam veliko denarja.	Nimam veliko denarja.		1		
+326	3475230	slv	Vohal sem slanino.	Vohal nisem slanino.		1		
+327	3476144	slv	Bil sem presenečen nad njegovo odpovedjo.	Bil nisem presenečen nad njegovo odpovedjo.		1		
+328	3476150	slv	Dohitel sem ostale.	Dohitel nisem ostale.		1		
+329	3477072	slv	Šel sem v živalski vrt.	Šel nisem v živalski vrt.		1		
+330	3486094	slv	Prinesel sem ti malo vode.	Prinesel nisem ti malo vode.		1		
+331	3486102	slv	Hotel sem poklicati Tom-a.	Hotel nisem poklicati Tom-a.		1		
+332	3493364	slv	Imeli smo nekaj zelo mrzlih zim.	Imeli nismo nekaj zelo mrzlih zim.		1		
+333	3493366	slv	Danes sem prost.	Danes nisem prost.		1		
+334	3667401	slv	To sem ti že povedal.	To nisem ti že povedal.		1		
+335	3667419	slv	Oprostite, imam vprašanje.	Oprostite, nimam vprašanje.		1		
+336	3667463	slv	Ko smo pogledali dol, smo videli mnogo stavb.	Ko ninismo pogledali dol, ninismo videli mnogo stavb.		2		
+337	3667519	slv	Moja soba ima dve okni.	Moja soba nema dve okni.		1		
+338	3667530	slv	Želiš vedeti zakaj sem lagal Tomu?	Želiš vedeti zakaj nisem lagal Tomu?		1		
+339	3667531	slv	Želiš vedeti zakaj sem lagala Tomu?	Želiš vedeti zakaj nisem lagala Tomu?		1		
+340	3668646	slv	Ima veliko denarja.	Nema veliko denarja.		1		
+341	3772837	slv	Imam prijatelja.	Nimam prijatelja.		1		
+342	3810560	slv	Odkar sem te nazadnje srečal/a sta minili dve leti.	Odkar nisem te nazadnje srečal/a sta minili dve leti.		1		
+343	3811372	slv	Včeraj sem se šla umit v reko.	Včeraj nisem se šla umit v reko.		1		
+344	3811373	slv	Včeraj sem se šel umit v reko.	Včeraj nisem se šel umit v reko.		1		
+345	3811389	slv	Spet sem zamudil rok!	Spet nisem zamudil rok!		1		
+346	3811391	slv	Spet sem zamudila rok!	Spet nisem zamudila rok!		1		
+347	3811417	slv	Samozavestna sem bila.	Samozavestna nisem bila.		1		
+348	3811419	slv	Samozavesten sem bil.	Samozavesten nisem bil.		1		
+349	3811472	slv	Dodal sem še eno poved.	Dodal nisem še eno poved.		1		
+350	3811484	slv	Jaz imam ključ.	Jaz nimam ključ.		1		
+351	3877981	slv	Povprečno človeško telo ima dovolj kosti za celotno človeško okostje.	Povprečno človeško telo nema dovolj kosti za celotno človeško okostje.		1		
+352	3932340	slv	Nekaj mesecev sem se učila italijanščine.	Nekaj mesecev nisem se učila italijanščine.		1		
+353	3932357	slv	Šla sem v supermarket.	Šla nisem v supermarket.		1		
+354	4808339	slv	Napisal sem to knjigo.	Napisal nisem to knjigo.		1		
+355	4808342	slv	Imam star avto.	Nimam star avto.		1		
+356	4808344	slv	Imam teto ki živi v Osaki.	Nimam teto ki živi v Osaki.		1		
+357	4808350	slv	Hočem naučiti.	Nočem naučiti.		1		
+358	5702057	slv	Jaz sem Jack.	Jaz nisem Jack.		1		
+359	5845791	slv	Šla sem v London.	Šla nisem v London.		1		
+360	5845792	slv	Šel sem v London.	Šel nisem v London.		1		
+361	5845794	slv	Bil sem debel.	Bil nisem debel.		1		
+362	5845795	slv	Bila sem debela.	Bila nisem debela.		1		
+363	5927101	slv	Bil sem pripravljen.	Bil nisem pripravljen.		1		
+364	5927102	slv	Bila sem pripravljena.	Bila nisem pripravljena.		1		
+365	6029961	slv	Hodili smo v gledališče.	Hodili nismo v gledališče.		1		
+366	6597457	slv	Jaz sem zver.	Jaz nisem zver.		1		
+367	6597623	slv	Odločil sem se dodati triletni plan za zaščito mojega novo-kupljenega didgeridooja.	Odločil nisem se dodati triletni plan za zaščito mojega novo-kupljenega didgeridooja.		1		
+368	6597658	slv	Hočem nov mlinček za poper.	Nočem nov mlinček za poper.		1		
+369	6597672	slv	Imam srečo.	Nimam srečo.		1		
+370	6598446	slv	Jaz sem tako nesrečen fant.	Jaz nisem tako nesrečen fant.		1		
+371	6598447	slv	Imam hčerko iste starosti kot tvoj sin.	Nimam hčerko iste starosti kot tvoj sin.		1		
+372	6598566	slv	Mi smo sovražniki	Mi nismo sovražniki		1		
+373	6598567	slv	Midva sva sovražnika/ Mi smo sovražniki	Midva sva sovražnika/ Mi nismo sovražniki		1		
+374	6598577	slv	Sem pošast	Nisem pošast		1		
+375	6598660	slv	Hodil sem domov	Hodil nisem domov		1		
+376	6598662	slv	Hodil sem domov.	Hodil nisem domov.		1		
+377	6598940	slv	Sem brez besed.	Nisem brez besed.		1		
+378	6598963	slv	Mislil sem, da imaš rad nove stvari.	Mislil sem, da nemaš rad nove stvari.		1		
+379	6599703	slv	Voda ima okus po pipi.	Voda nema okus po pipi.		1		
+380	6600811	slv	Ukradel sem tvojo denarnico	Ukradel nisem tvojo denarnico		1		
+381	6601123	slv	Zelo smo utrujeni in razdražljivi.	Zelo nismo utrujeni in razdražljivi.		1		
+382	6601186	slv	Vrnil sem mu njegovo knjigo.	Vrnil nisem mu njegovo knjigo.		1		
+383	6601187	slv	Povabil sem jo na zmenek.	Povabil nisem jo na zmenek.		1		
+384	6601190	slv	Hodil sem kako miljo.	Hodil nisem kako miljo.		1		
+385	6601194	slv	Mislil sem da jim lahko zaupam.	Mislil nisem da jim lahko zaupam.		1		
+386	6824290	slv	Jaz sem Ricardo.	Jaz nisem Ricardo.		1		
+387	6824291	slv	Sem Ricardo.	Nisem Ricardo.		1		
+388	7303422	slv	Kam sem jih dal?	Kam nisem jih dal?		1		
+389	7303425	slv	Na žalost, sem izgubil moj potni list.	Na žalost, nisem izgubil moj potni list.		1		
+390	8143503	slv	Tom ima rad aritmetiko.	Tom nema rad aritmetiko.		1		
+391	8697178	slv	Po večerji sem naredila domačo nalogo.	Po večerji nisem naredila domačo nalogo.		1		
+392	8697297	slv	Imaš nadimek?	Nemaš nadimek?		1		
+393	9142616	slv	Imaš veliko hišo.	Nemaš veliko hišo.		1		
+394	9142627	slv	Kupil sem kruhek in čaj.	Kupil nisem kruhek in čaj.		1		
+395	9142642	slv	Hočem velik stol.	Nočem velik stol.		1		
+396	9142645	slv	Jaz sem bolna.	Jaz nisem bolna.		1		
+397	9142646	slv	Jaz sem bolan.	Jaz nisem bolan.		1		
+398	9226579	slv	Tako zelo sem imel rad Marijo.	Tako zelo nisem imel rad Marijo.		1		
+0	1860		Nočem iti v šolo.	hočem iti v šolo.		1	I don't want to go to school.	3633428
+1	1860		Nočem v šolo.	hočem v šolo.		1	I don't want to go to school.	3633430
+2	39056		Vrata se ne zaprejo.	Vrata se  zaprejo.		1	The door won't close.	3011914
+3	39122		Vrata se ne odprejo.	Vrata se  odprejo.		1	The door won't open.	3011915
+4	46725		Med poukom ne smeš govoriti japonsko.	Med poukom  smeš govoriti japonsko.		1	You must not speak Japanese during the class.	3476160
+5	67761		V Afriki ni deževalo že več kot en mesec.	V Afriki  deževalo že več kot en mesec.		1	They have had no rain in Africa for more than a month.	3667532
+6	242114		Zakaj ne bi šli v gore ta konec tedna?	Zakaj  bi šli v gore ta koc tedna?		1	Why don't we go to the mountains this weekend?	3667527
+7	264495		Nimam kolesa.	imam kolesa.		1	I don't have a bicycle.	3087118
+8	370573		To ni res.	To  res.		1	This is not true.	3005141
+9	418624		Nikogar ni v sobi.	Nikogar  v sobi.		1	There's no one in the room.	2202463
+10	418631		Ali ni nadležno?	Ali  nadležno?		1	Isn't that annoying?	2202465
+11	418631		Ali ni zoprno?	Ali  zoprno?		1	Isn't that annoying?	2202466
+12	418631		Kaj ni nadležno?	Kaj  nadležno?		1	Isn't that annoying?	2202467
+13	418631		Kaj ni zoprno?	Kaj  zoprno?		1	Isn't that annoying?	2202468
+14	433613		Nimam nič denarja.	imam nič denarja.		1	I have no money.	3011858
+15	506446		Nič ne skrbi.	Nič  skrbi.		1	Don't worry.	3005227
+16	713809		Nimam časa zate.	imam časa zate.		1	I don't have time for you.	1543699
+17	950257		Volk ne more udomačil.	Volk  more udomačil.		1	A wolf cannot be tamed.	950300
+18	953760		Sprašujem se, zakaj ni pojedel jabolka, ki mu je padlo na glavo.	Sprašujem se, zakaj  pojedel jabolka, ki mu je padlo na glavo.		1	I wonder why he didn't eat the apple that fell on his head.	3493367
+19	993121		Nimam nobenih sester.	imam nobenih sester.		1	I have no sisters.	2115959
+20	1028504		Tom je prepričan, da Mary v resnici ni šla v Boston prejšnji teden.	Tom je prepričan, da Mary v resci  šla v Boston prejšnji teden.		1	Tom is sure that Mary didn't really go to Boston last week.	3667537
+21	1163524		Glava me ne boli več.	Glava me  boli več.		1	My head doesn't ache anymore.	3667522
+22	1233442		Nikoli ne vem, kaj reči ljudem, ki ne poznajo niti najosnovnejših dejstev, a se tega sploh ne zavedajo.	  vem, kaj reči ljudem, ki  poznajo niti najosnovjših dejstev, a se tega sploh  zavedajo.		4	I never know what to say to people who have absolutely no grasp of the basic facts and are too ignorant to realise it.	3667520
+23	1820197		Samo pošasti ne jokajo.	Samo pošasti  jokajo.		1	Only monsters don't cry.	3481154
+24	1841694		Nisem vas videl.	sem vas videl.		1	I didn't see you.	3005196
+25	1844227		Nič ne reci.	Nič  reci.		1	Don't say anything.	3013271
+26	1866935		Kruh ni svež.	Kruh  svež.		1	The bread is not fresh.	2413020
+27	1943732		Nočem prevesti te povedi.	hočem prevesti te povedi.		1	I don't want to translate this sentence.	2125361
+28	1970241		Vem, da Tom ni tvoj fant.	Vem, da Tom  tvoj fant.		1	I know Tom isn't your boyfriend.	3667501
+29	2099624		"Nikdar ne napiši besedi ""boršč"" in ""šči"" v nemščini!"	"Nikdar  napiši besedi ""boršč"" in ""šči"" v mščini!"		1	"Never write the words ""bortsch"" and ""shchi"" in German!"	2206316
+30	2272086		To se ne zgodi pogosto.	To se  zgodi pogosto.		1	That doesn't happen often.	3298881
+31	2359995		Še nikoli nisem bil tukaj.	Še  sem bil tukaj.		2	I've never been here before.	3013186
+32	2400093		To ne bo zadnjič.	To  bo zadnjič.		1	This won't be the last time.	3476140
+33	2439040		Nočem delati pod temi pogoji.	hočem delati pod temi pogoji.		1	I don't want to work under these conditions.	2439100
+34	2603460		Alkohol ne reši nobenega problema.	Alkohol  reši nobega problema.		1	Alcohol doesn't solve any problems.	2603479
+35	1194034		Jaz nisem zdravnik.	Jaz sem zdravnik.		1	I'm not a doctor.	2634867
+36	2663108		To ne bi smel biti tak problem.	To  bi smel biti tak problem.		1	That shouldn't be much of a problem.	3476161
+37	2777905		Nikoli ne rečeš, da me ljubiš.	  rečeš, da me ljubiš.		2	You never say you love me.	3476149
+38	1233962		Nikoli ne bomo vedeli.	  bomo vedeli.		2	We'll never know.	2788499
+39	2951997		Upam, da ne bo jutri deževalo.	Upam, da  bo jutri deževalo.		1	I do hope that it won't rain tomorrow.	3011938
+40	2955776		Tom in Mary ne hodita na isto šolo.	Tom in Mary  hodita na isto šolo.		1	Tom and Mary don't go to the same school.	3477069
+41	3260107		On me ni razumel.	On me  razumel.		1	He didn't understand me.	3295104
+42	3273596		On ne trpi takšnega načina obnašanja.	On  trpi takšga načina obnašanja.		1	He doesn't tolerate that type of behaviour.	3667534
+43	3294994		Jaz nisem Musliman.	Jaz sem Musliman.		1	I'm not a Muslim.	3295097
+44	3294994		Jaz nisem Muslimanka.	Jaz sem Muslimanka.		1	I'm not a Muslim.	3295098
+45	659276		Portugalska ni izjema.	Portugalska  izjema.		1	Portugal is not an exception.	3810545
+46	2547901		To ni bilo moje vprašanje.	To  bilo moje vprašanje.		1	I wasn't asking that.	3810553
+47	2949746		Nisem razumel tvojega vprašanja.	sem razumel tvojega vprašanja.		1	I didn't understand your question.	3810556
+48	2540925		Toma ne obtožujem ničesar.	Toma  obtožujem ničesar.		1	I'm not accusing Tom of anything.	3810557
+49	3808567		Perzijščina ni težaven jezik.	Perzijščina  težaven jezik.		1	Persian is not a difficult language.	3811288
+50	2949746		Nisem razumela tvojega vprašanja.	sem razumela tvojega vprašanja.		1	I didn't understand your question.	3811331
+51	3806742		Danes ne morem priti, jutri pa tudi ne.	Das  morem priti, jutri pa tudi .		1	I can't come today or tomorrow either.	3811339
+52	3804702		Tvoj oči mi ni všeč.	Tvoj oči mi  všeč.		1	I don't like your dad.	3811413
+53	2541272		Hrana ni bila preveč okusna.	Hrana  bila preveč okusna.		1	The food didn't taste very good.	3811458
+54	3800047		Res škoda, da je ne poznaš.	Res škoda, da je  poznaš.		1	It's a great pity you don't know her.	3811495
+55	3800042		Res škoda, da ga ne poznaš.	Res škoda, da ga  poznaš.		1	It's a great pity you don't know him.	3811496
+56	5833207		Obljubim, da te ne bom obsojal.	Obljubim, da te  bom obsojal.		1	I promise not to judge you.	5833764
+57	4317881		Nisem ga poljubil jaz. On je poljubil mene.	sem ga poljubil jaz. On je poljubil mene.		1	I didn't kiss him. He kissed me.	5965486
+58	4317881		Nisem ga poljubila jaz. On je poljubil mene.	sem ga poljubila jaz. On je poljubil mene.		1	I didn't kiss him. He kissed me.	5965489
+59	4318224		Vej, da me ne strašiš.	Vej, da me  strašiš.		1	Know that you're not scaring me.	5965493
+60	6597355		Nihče dejansko ne doživlja resničnosti zahvaljujoč oligarhiji miljarderjev.	Nihče dejansko  doživlja resničnosti zahvaljujoč oligarhiji miljarderjev.		1	No one is actually experiencing reality thanks to the oligarchy of billionaires.	6597640
+61	6596355		Nihče ne želi priznati.	Nihče  želi priznati.		1	No one wants to admit it.	6597675
+62	6595746		Kmetovanje ni človeška usoda.	Kmetovanje  človeška usoda.		1	Agriculture is not humankind's destiny.	6597687
+63	6595717		Nikoli ne pozabi svoji mami poslati rojstnodnevnega darila.	  pozabi svoji mami poslati rojstnodvga darila.		2	You never forget to send your mother a birthday gift.	6597690
+64	6597355		Nihče ne živi v resničosti, zahvaljujoč oligarhiji miljarderjev.	Nihče  živi v resničosti, zahvaljujoč oligarhiji miljarderjev.		1	No one is actually experiencing reality thanks to the oligarchy of billionaires.	6597752
+65	6596347		Ko jim poveš se probaj ne smejati.	Ko jim poveš se probaj  smejati.		1	Try not to smile when you tell them.	6597928
+66	2009658		Ona ni mlada.	Ona  mlada.		1	She isn't young.	6598417
+67	43819		Mislim da še nikoli nisem slišal tega imena.	Mislim da še  sem slišal tega imena.		2	I don't believe I've heard that name.	6598426
+68	6598670		Nisem bila grozna.	sem bila grozna.		1	I was not horrible.	5845840
+69	1302		To se ne bo zgodilo.	To se  bo zgodilo.		1	That won't happen.	6598944
+70	1330		Me ne preseneča.	Me  preseča.		1	It doesn't surprise me.	6598948
+71	1402		To ni bil moj namen.	To  bil moj namen.		1	That wasn't my intention.	6598965
+72	1397		Ničesar drugega te ne bom vprašal danes.	Ničesar drugega te  bom vprašal das.		1	I won't ask you anything else today.	6598968
+73	6599113		Nikoli ne bom pozabil trenutka, ko sem v mojih rokah držal delfina.	  bom pozabil trenutka, ko sem v mojih rokah držal delfina.		2	I'll never forget the moment I held a dolphin in my hands.	6599700
+74	6601147		Maria ni Tomova sovražnica.	Maria  Tomova sovražca.		1	Maria isn't Tom's enemy.	6601761
+75	3330604		Nikoli nisem slišal, da bi se Tom pritoževal.	 sem slišal, da bi se Tom pritoževal.		2	I've never heard Tom complain.	6603626
+76	2013515		Nočem biti različen.	hočem biti različen.		1	I don't want to be different.	8020900
+77	7843793		Zato ne morem verjeti.	Zato  morem verjeti.		1	That's why I cannot believe it.	8143505
+78	2835867		Stavim, da se me ne spomniš.	Stavim, da se me  spomniš.		1	I bet you don't remember me.	8143510
+79	8936078		Voda ni hladna.	Voda  hladna.		1	The water isn't cold.	8808593
+80	8782870		Voda ni hladna.	Voda  hladna.		1	The water is not cold.	8808593
+81	7232609		Mislim, da Tom ne bo tu ves dan.	Mislim, da Tom  bo tu ves dan.		1	I don't think Tom is going to be here all day.	9226574
+82	6412373		Mariji sem že povedal, da ne mora iti na Tomovo zabavo.	Mariji sem že povedal, da  mora iti na Tomovo zabavo.		1	I've already told Mary she can't go to Tom's party.	9226577
+								
+			Ne morem verjeti svojim očem.	Verjamem svojim očem.				
+			Ne morem verjeti svojim očem.	Verjamem svojim očem.				
+			Nikoli ne boš sam.	Sam boš.				
+			Zakaj ne moreš priti?	Zakaj lahko prideš?				
+			Brez koristi je, če ga poskušate prepričati.	Uporabljate ga, ko ga poskušate prepričati.				
+			Brez dobička brez dobička.	Brez dobička brez dobička.				
+			Brez bolečin brez dobička.	Brez bolečin brez dobička.				
+			Ribe ne morejo živeti iz vode.	Ribe lahko živijo iz vode.				
+			Nikoli nisi prestar za učenje.	Prestar si, da bi se učil.				
+			Nič ni smiselno poskušati.	Koristno je poskusiti karkoli.				
+			Rim ni bil zgrajen v enem dnevu.	Rim je bil zgrajen v enem dnevu.				
+			Nisem sodeloval v pogovoru.	Res sem sodeloval v pogovoru.				
+			Na radiu ni enostavno govoriti naravno.	Na radiu je enostavno govoriti naravno.				
+			Marija ni bila vredna vašega zaupanja.	Marija je bila vredna vašega zaupanja.				
+			Tom ne mara sira.	Tom ima rad sir.				
+			Ena lastovka ne naredi poletja.	Ena lastovka naredi poletje.				
+			Noben človek ne bi verjel.	Noben človek ne bi verjel.				
+			Ni zločin, če občasno preskočimo zajtrk.	Zločin je občasno preskočiti zajtrk.				
+			Ne spreminjajte se tako pogosto.	Ali si tako pogosto premislite.				
+			Sploh nisem zadovoljen s stanjem.	S stanjem sem sploh zadovoljen.				
+			V tem mestu skoraj ni nasilja.	V tem mestu je skoraj nasilje.				
+			Za tolmačenje ne potrebuje učenjaka.	Za tolmačenje zahteva učenjak.				
+			Prenosnik ni tvoj. Njegova je.	E-knjiga je vaša. Njegova je.				
+			Ne maram študija v tej vročini.	V tej vročini rad študiram.				
+			Tega dejstva ne smemo pozabiti.	Na to dejstvo je treba pozabiti.				
+			Bi prosim nehali peti tako glasno? To ni poceni kraj za pitje.	Bi prosim nehali peti tako glasno? To je poceni pivnica.				
+			Ne grizite roke, ki vas hrani.	Ne grizite roke, ki vas hrani.				
+			Zakaj si ne bi delili sobe?	Zakaj si delimo sobo?				
+			Sinoči se nisem imel lepo.	Sinoči sem se imel lepo.				
+			Na revne ljudi ne bi smeli gledati zviška.	Uboge ljudi bi morali gledati zviška.				
+			Moja jakna ni enaka vaši.	Moja jakna je enaka vaši.				
+			Moja srajca še ni suha.	Moja srajca je še suha.				
+			Ne najdem kovčka.	Najdem svoj kovček.				
+			Nikoli ni prišel pravočasno, za katerega vem.	Prišel je pravočasno, za katerega vem.				
+			Imam toliko oblačil, da ne vem, kaj obleči jutri.	Imam toliko oblačil, da vem, kaj obleči jutri.				
+			Tako sem utrujena, da ne morem študirati.	Tako sem utrujena, da lahko študiram.				
+			Tako sem utrujen, da ne morem stopiti še koraka.	Tako sem utrujen, da lahko prehodim še en korak.				
+			Tako sem zaposlen, da vam ne morem pomagati.	Tako sem zaposlen, da vam lahko pomagam.				
+			Ne pripadam nobenemu klubu.	Pripadam kateremu koli klubu.				
+			Ne vem koliko je ura.	Vem, koliko je ura.				
+			Vlada se ne trudi po najboljših močeh rešiti stanovanjskega problema.	Vlada se po najboljših močeh trudi rešiti stanovanjski problem.				
+			Ni vam treba obleči.	Moraš se obleči.				
+			Bodi hiter! Nimamo veliko časa.	Bodi hiter! Imamo veliko časa.				
+			Ni smisla čakati.	Smisel je čakanje.				
+			Bolečine ni več zdržal.	Bolj je zdržal bolečino.				
+			Ogljikov dioksid sam po sebi ni strup.	Ogljikov dioksid je sam po sebi strup.				
+			Njegova zgodba morda ni resnična.	Njegova zgodba je morda resnična.				
+			Ves dan ni jedel in bil zelo lačen.	Ves dan je jedel in bil zelo lačen.				
+			Ni vedel, kaj naj odgovori.	Res je vedel, kaj naj reče.				
+			To ni storil namerno.	Naredil je to namenoma.				
+			S sosedi se ni mogel razumeti.	Lahko se je razumel s sosedi.				
+			Na izpitu ni uspel, ker ni študiral.	Na izpitu ni uspel, ker je študiral.				
+			Ne spi s prižgano lučjo.	Spajte s prižgano lučko.				
+			Upam, da jutri ne bo deževalo.	Upam, da bo jutri deževalo.				
+			Nevem.	Jaz vem.				
+			Ne pijem vodke.	Res mi je, da pijem vodko.				
+			Ne spomnim se, kdaj sem ga prvič srečal.	Spomnim se, ko sem ga prvič srečal.				
+			Ena lastovka ne naredi pomladi.	Ena lastovka naredi pomlad.				
+			Nimam denarja.	Imam denar.				
+			Ni visoka.	Visoka je.				
+			Težava našega časa je, da prihodnost ni več takšna, kot je bila.	Težava našega časa je, da je prihodnost takšna, kot je bila nekoč.				
+			To ni mačka. To je pes.	To je mačka. To je pes.				
+			Mačka ni oseba!	Mačka je oseba!				
+			Wang Lao Ji ni pivo. To je čaj.	Wang Lao Ji je pivo. To je čaj.				
+			En jezik ni nikoli dovolj.	En jezik je dovolj.				
+			Od trenutka, ko sem vstopil v to sobo, se nisem mogel odmakniti od tebe.	Od tebe bi se lahko odmaknil od trenutka, ko sem vstopil v to sobo.				
+			Ne morem se spomniti njene telefonske številke, ne glede na to, koliko se trudim.	Spomnim se njene telefonske številke, ne glede na to, koliko se trudim.				
+			Nikoli ni prepozno za učenje.	Prepozno je za učenje.				
+			Samoumevno je, da vam denar ne more kupiti sreče.	Samoumevno je, da vam denar lahko kupi srečo.				
+			Brez sonca ni življenja!	Brez sonca je življenje!				
+			Nočem iti v Italijo.	Želim si iti v Italijo.				
+			Tom ne zna plavati kot nekoč.	Tom zna plavati kot nekoč.				
+			Tom na svoji ukulele ne more zaigrati niti ene pesmi, ne da bi se zmotil.	Tom lahko celo na eno ukulele predvaja eno pesem, ne da bi se zmotil.				
+			Tom ni ravno dober v prikrivanju tega, kako se v resnici počuti.	Tom zelo dobro prikriva, kako se v resnici počuti.				
+			Zdi se, da Taro nima nobenih prijateljic.	Zdi se, da ima Taro kakšno dekle.				
+			Zelo majhni otroci ne znajo veliko besed.	Zelo majhni otroci vedo veliko besed.				
+			Zelo majhni otroci ne znajo veliko besed.	Zelo majhni otroci vedo veliko besed.				
+			Nihče ne ve, kaj se bo zgodilo v prihodnosti.	Nihče ne ve, kaj se bo zgodilo v prihodnosti.				
+			Ni imel niti enega peresa.	Res je imel en sam peresnik.				
+			Ne kadi in ne pije vodke.	Kadi in pije vodko.				
+			Marija še ni ocvrla mesa.	Marija je meso še prepražila.				
+			Ne vem, kaj je Tom mislil.	Vem, kaj je Tom mislil.				
+			Rekel sem ti, da tega ne vem.	Rekel sem vam, da to vem.				
+			Ne želim prevajati tega stavka.	Želim prevesti ta stavek.				
+			Ne morete pričakovati, da si bo Tom premislil.	Res lahko pričakujete, da si bo Tom premislil.				
+			Zdi se, da niso srečni.	Zdi se, da so srečni.				
+			"Nikoli ne pišite besed ""bortsch"" in ""shchi"" v nemščini!"	" napiši besedi ""bortsch"" in ""shchi"" v nemščini!"				
+			Italija ni Grčija.	Italija je Grčija.				
+			Nikoli nisem imel pritožb.	Imel sem kakršne koli pritožbe.				
+			Nikoli nisem imel pritožb.	Imel sem kakršne koli pritožbe.				
+			Nočem delati pod temi pogoji.	Resnično želim delati pod temi pogoji.				
+			Ne pijte vode v umazanem kozarcu!	Vodo pijte v umazanem kozarcu!				
+			Nikogar nisem ubil!	Sem koga ubil!				
+			Nisem zdravnik.	Sem zdravnik.				
+			Alessia ne zna govoriti angleško.	Alessia zna govoriti angleško.				
+			Tom ni dekle.	Tom je dekle.				
+			Te besede ne razumem.	Razumem to besedo.				
+			Ne potrebuješ mojega dovoljenja.	Potrebujete moje dovoljenje.				
+			Nimam žene.	Imam ženo.				
+			Veliko drevo ni zeleno.	Veliko drevo je zeleno.				
+			Obljubim, da vam ne bom več lagal.	Obljubim, da vam bom še enkrat lagal.				
+			Te slušalke ne delujejo.	Te slušalke delujejo.				
+			Življenje nikoli ne ostane enako.	Življenje ostaja enako.				
+			Ni se vam treba bati.	Treba se je bati.				
+			Času ni konca. Neskončno je.	Čas se je končal. Neskončno je.				
+			To ga sploh ne vpliva.	To ga sploh prizadene.				
+			Ne mara nogometa.	Všeč ji je nogomet.				
+			Nimam vozovnice.	Vstopnico imam.				
+			Kajenje tukaj ni dovoljeno.	Kajenje je dovoljeno tukaj.				
+			Nimam časa za počitek.	Imam čas za počitek.				
+			Kajenje ni dobro za zdravje.	Kajenje je dobro za zdravje.				
+			To ne more biti res.	To je lahko res.				
+			To ne more biti res.	To je lahko res.				
+			To ne more biti res.	To je lahko res.				
+			Ne more biti res.	Lahko je res.				
+			Ne more biti res.	Lahko je res.				
+			Ne more biti res.	Lahko je res.				
+			Ne vem, če bom imel čas.	Vem, če bom imel čas.				
+			Ni ga smisla prepričevati.	Koristno ga je prepričati.				
+			Ne pojem.	Res pojem.				
+			Tom ni angel.	Tom je angel.				
+			Mislim, da si Tom tega ne bo želel.	Mislim, da si bo Tom to želel.				
+			Tom se ne zaveda, kako njegovo vedenje vpliva na druge.	Tom se zaveda, kako njegovo vedenje vpliva na druge.				
+			Jutri ne bom šla v šolo.	Jutri grem v šolo.				
+			Ne vem, če imam čas.	Vem, če imam čas.				
+			Jutri ti ni treba v šolo.	Jutri moraš iti v šolo.				
+			To se ne bo zgodilo.	To se bo zgodilo.				
+			Tom ni član našega kluba.	Tom je član našega kluba.				
+			Res? Tega nisem vedel.	Res? Vedela sem to.				
+			Res? Tega nisem vedel.	Res? Vedela sem to.				
+			Nisem te že videl tukaj.	Sem te že videl tukaj.				
+			Nisem te že videl tukaj.	Sem te že videl tukaj.				
+			Nikoli nisem marala biologije.	Všeč mi je bila biologija.				
+			Nikoli nisem marala biologije.	Všeč mi je bila biologija.				
+			Tukaj ne fotografirajte.	Tukaj fotografirajte.				
+			Prosim, ne slikajte se tukaj.	Prosim, slikajte tukaj.				
+			Nekaterih prijateljev ni mogoče zamenjati.	Nekatere prijatelje je mogoče zamenjati.				
+			Ne kriči name.	Kriči name.				
+			Ne kriči name.	Kriči name.				
+			Pri kuhanju ne uporablja soli.	Pri kuhanju uporablja sol.				
+			Zakaj živali ne morejo govoriti?	Zakaj lahko živali govorijo?				
+			Brez vode ne moreš živeti.	Lahko živiš brez vode.				
+			Francosko sploh ne zna.	Sploh ne zna francosko.				
+			Naše oči ne vidijo infrardeče svetlobe.	Naše oči lahko vidijo infrardečo svetlobo.				
+			Nočem mesa.	Hočem meso.				
+			Nimam nikogar razen nje.	Imam vse razen nje.				
+			Ničesar ni razumel.	Res je vse razumel.				
+			Ne zavidam mu.	Res mu zavidam.				
+			Ne zavidam ji.	Res ji zavidam.				
+			Ne more nas ustaviti.	Lahko nas ustavi.				
+			Ne more nas ustaviti.	Lahko nas ustavi.				
+			Ameriška angleščina ni boljša od britanske angleščine.	Ameriška angleščina je boljša od britanske angleščine.				
+			Oh ne!	Oh ne!				
+			Mačka ni oseba.	Mačka je oseba.				
+			Nimamo možnosti.	Imamo možnosti.				
+			Nimamo možnosti.	Imamo možnosti.				
+			Tom mi je ni dal.	Tom mi ga je dal.				
+			Tom ne bo opravil testa.	Tom bo opravil test.				
+			Tom ne zna igrati kitare.	Tom zna igrati kitaro.				
+			Za plačevanje niste plačani.	Plačani ste za vprašanja.				
+			Ni problema!	Ni problema!				
+			To sploh ni smešno.	To je sploh smešno.				
+			Seveda ni res.	Seveda je res.				
+			Seveda ni res.	Seveda je res.				
+			Tomu ni bilo všeč, kako mu je Mary govorila.	Tomu je bilo všeč, kako mu je Mary govorila.				
+			Tom ni tako star kot Mary.	Tom je star toliko kot Mary.				
+			Tom ni zelo vesel.	Tom je zelo vesel.				
+			Ne morem se potruditi, da grem nocoj ven.	Nocoj me lahko moti, da grem ven.				
+			Ni lepotica.	Lepota je.				
+			To ni resnična težava.	To je resnična težava.				
+			Ne ubij.	Ubij.				
+			Bolje bi bilo, če Tom ne bi Mary kupil pištole.	Bolje bi bilo, če bi Tom Mariji kupil pištolo.				
+			Ne bom plaval.	Plaval bom.				
+			Nismo bili dovolj previdni.	Bili smo dovolj previdni.				
+			Nismo bili dovolj previdni.	Bili smo dovolj previdni.				
+			Tega nismo mogli storiti.	To nam je uspelo.				
+			Nismo bili dovolj previdni.	Bili smo dovolj previdni.				
+			Ne bomo se vrnili v Boston.	Vrnili se bomo v Boston.				
+			Ne plačajo vam dovolj.	Plačajo vam dovolj.				
+			Ne morem mu odpustiti, da se je tako obnašal.	Lahko mu odpustim, da se je tako obnašal.				
+			Nisem načrtoval, da bi se to zgodilo.	Načrtoval sem, da se bo to zgodilo.				
+			Nisem zadovoljen s tem, kar si naredil.	Zadovoljen sem s tem, kar ste storili.				
+			Nisem zadovoljen s tem, kar si naredil.	Zadovoljen sem s tem, kar ste storili.				
+			Tom mi ni odgovoril.	Tom mi je res odgovoril.				
+			Nisem čakal dolgo, preden se je pojavila.	Čakal sem že dolgo preden se je pojavila.				
+			Denarja res nisem imel.	Res sem imel denar.				
+			Ne verjamem več ničesar, kar rečete.	Več verjamem vsemu, kar rečete.				
+			Nočem vam vzeti veliko časa.	Resnično vam želim vzeti veliko časa.				
+			Noben študent ni mogel odgovoriti na vprašanje.	Noben študent ni mogel odgovoriti na vprašanje.				
+			Ne morem ga osrečiti.	Lahko ga osrečim.				
+			Ne morem ga osrečiti.	Lahko ga osrečim.				
+			Ali ne marate plavanja?	Ali radi plavate?				
+			Še vedno mi nisi povedal, ko greš iz službe.	Še vedno ste mi povedali, ko odidete z dela.				
+			Tom in Mary tega ne vesta.	Tom in Mary to vesta.				
+			Nisem tvoj otrok.	Jaz sem tvoj otrok.				
+			Informacije, ki jih potrebujemo, niso vedno na voljo.	Informacije, ki jih potrebujemo, so vedno na voljo.				
+			Naredi kar želiš. Vseeno mi je.	Naredi kar želiš. Vseeno mi je.				
+			Nikoli nisem videl njegovega obraza.	Videla sem njegov obraz.				
+			Nisem se mogel spomniti njegovega imena.	Spomnil sem se njegovega imena.				
+			Tom ni bil zelo dober.	Tom je bil zelo dober.				
+			Tom se ni obnašal kot običajen fant.	Tom se je obnašal kot običajen fant.				
+			Kanada ni raj.	Kanada je raj.				
+			Niso me poznali.	Res so me poznali.				
+			Še nikoli te nisem videla tako napete.	Videla sem te tako napeto.				
+			To ni grožnja.	To je grožnja.				
+			Razlog ni pomemben.	Razlog je vseeno.				
+			Nismo igrali dobro.	Res smo igrali.				
+			Ne obsojam te.	Obsojam te.				
+			Tom trenutno verjetno ni lačen.	Tom je verjetno trenutno lačen.				
+			Ni mi bilo treba hiteti.	Moral sem pohiteti.				
+			Obžalujem, da nisem trdo študiral za test.	Obžalujem, da sem trdo študiral za test.				
+			Tom me nima zelo rad.	Tom me ima zelo rad.				
+			Ni takšna oseba, ki krade.	Je taka oseba, ki krade.				
+			Nikoli ne vemo, zakaj umremo.	Vemo, zakaj umremo.				
+			Tom nima bratov in sester.	Tom ima brate in sestre.				
+			To ni otok.	To je otok.				
+			Ta knjiga ne govori o jezikoslovju.	Ta knjiga govori o jezikoslovju.				
+			Raje ne hodi več tja.	Raje pojdi tja še enkrat.				
+			Raje ne hodi več tja.	Raje pojdi tja še enkrat.				
+			Ne polagajte komolcev na mizo.	Postavite komolce na mizo.				
+			Na zadnje srečanje ni prišel.	Res je prišel na zadnje srečanje.				
+			Ne živi v moji soseski.	Res živi v moji soseski.				
+			Ob nedeljah ni vedno doma.	Ob nedeljah je vedno doma.				
+			Ni dokazov, da bolezen povzroča prehrana.	Obstajajo dokazi, da to bolezen povzroča prehrana.				
+			Tom še ni bil v Bostonu.	Tom je bil v Bostonu.				
+			Tega dela ne boste mogli opraviti.	To delo boste lahko rešili.				
+			Rekli ste mi, da danes ne boste tukaj.	Rekli ste mi, da boste danes tukaj.				
+			Rekli ste mi, da danes ne boste tukaj.	Rekli ste mi, da boste danes tukaj.				
+			Slišiš se, kot da se ne zabavaš.	Slišiš se, kot da se zabavaš.				
+			Slišiš se, kot da se ne zabavaš.	Slišiš se, kot da se zabavaš.				
+			TV res ne gledam.	Res gledam televizijo.				
+			Moj nasvet je, da ji ne poveš.	Moj nasvet je, da ji poveš.				
+			Tukaj tega ne rabimo.	To potrebujemo tukaj.				
+			Tom ni obtožen.	Tom je obtožen.				
+			Ne daj mi te pištole. Nočem tega početi.	Daj mi to pištolo. To res želim storiti.				
+			Fadil ne živi sam. Ima družino.	Fadil res živi sam. Ima družino.				
+			Fadil ni bil v hiši.	Fadil je bil v hiši.				
+			Nedavni dokazi kažejo, da temu ni tako.	Nedavni dokazi kažejo, da je temu tako.				
+			Nisem imel dovolj denarja, da bi kupil vse, kar smo potrebovali.	Imel sem dovolj denarja za nakup vsega, kar smo potrebovali.				
+			Ne telovadim.	Vadim.				
+			Njegova oporoka je ni omenjala.	Njegova oporoka jo je res omenila.				
+			Ne telovadim toliko, kot bi moral.	Vadim, kolikor bi moral.				
+			Ne moremo jim dovoliti, da nam to storijo.	Lahko jim dovolimo, da nam to storijo.				
+			Nimam duše.	Res imam dušo.				
+			Nihče nima duše.	Nihče nima duše.				
+			Duše ne obstajajo.	Duše obstajajo.				
+			Ne vem, ali so ti jeziki sorodni.	Vem, ali so ti jeziki sorodni.				
+			Ni zelo zanimivo.	Zelo je zanimivo.				
+			Kako naj vem, da me ne boste predali, ko vam bom pomagal?	Kako naj vem, da me boste predali, ko vam bom pomagal?				
+			Ne berem toliko, kot bi si želel.	Berem, kolikor bi rad.				
+			Ne berem knjig.	Berem knjige.				
+			Ne berem romanov.	Berem romane.				
+			Ne berem poezije.	Berem poezijo.				
+			Ne poskušajte se igrati z mano.	Poskusite se igrati z mano.				
+			Ne moremo si dovoliti, da bi naša čustva vplivala na naša dejanja.	Čustvom lahko dovolimo, da vplivajo na naša dejanja.				
+			Vseeno mi je kako ti je ime.	Vseeno mi je kako ti je ime.				
+			Ne moreš me kupiti.	Lahko me kupiš.				
+			Ne jemljem podkupnine.	Vzamem podkupnino.				
+			Ne morem biti podkupljena.	Lahko sem podkupljen.				
+			Ni ga mogoče podkupiti.	Lahko ga podkupijo.				
+			Podkupljive je ni mogoče.	Lahko je podkupljena.				
+			Ni treba, da ste tako smrkavi.	Moraš biti tako smrkav.				
+			Nehajte iskati princa na belem konju; take stvari ni.	Nehajte iskati princa na belem konju; takšna stvar je				
+			Ne boš prišel k meni	Ne boš prišel k meni				
+			Bilo je očitno, da Tom ni hotel poljubiti Mary.	Bilo je očitno, da je Tom hotel poljubiti Mary.				
+			Layla ni bila pripravljena iti domov.	Layla je bila pripravljena iti domov.				
+			Niso nehali jokati.	Nehali so jokati.				
+			Ne grem s tabo na plažo.	Grem s tabo na plažo.				
+			Ne vemo, kako najti Toma.	Vemo, kako najti Toma.				
+			Odločila se je, da ne bo šla.	Odločila se je, da gre.				
+			Nisem storil.	Sem to storila.				
+			Tom zagotovo ni tako pameten, kot misli, da je.	Tom je zagotovo tako pameten, kot misli, da je.				
+			Pozorno smo poslušali, da ne bi zamudili niti ene besede.	Pozorno smo poslušali, da bi zamudili eno samo besedo.				
+			Ne smete govoriti z njo.	Dovoljeno je govoriti z njo.				
+			Tom misli, da ne vem, kaj je rekel.	Tom misli, da vem, kaj je rekel.				
+			Raje ne hodi več tja.	Raje pojdi tja še enkrat.				
+			Raje ne hodi več tja.	Raje pojdi tja še enkrat.				
+			Ne morem.	Ne morem.				
+			Ne?	Ne?				
+			Nimaš kroglic.	Imate kroglice.				
+			Nisem gledal Toma.	Gledal sem Toma.				
+			Nisem gledal Toma.	Gledal sem Toma.				
+			Zaradi denarja ni nujno, da ste bolj srečni.	Denar vas nujno osrečuje.				
+			Zaradi denarja ni nujno, da ste bolj srečni.	Denar vas nujno osrečuje.				
+			Kanada ni raj.	Kanadski raj.				
+			Prosim, ne joči.	Prosim, jokaj.				
+			Ne vidim te.	Res te vidim.				
+								
+			To se ne bo nikoli končalo.	To se bo končalo.				
+			Ne vem, če imam čas.	Vem, če imam čas.				
+			Nisem vedel, od kod prihaja.	Vedela sem, od kod prihaja.				
+			Ne vem kaj misliš.	Vem, kaj misliš.				
+			Nočem čakati tako dolgo.	Hočem počakati toliko časa.				
+			Ne vem več, kaj naj storim.	Vem, kaj naj storim več.				
+			Japonec česa takega ne bi nikoli storil.	Japonec bi naredil kaj takega.				
+			Brez tebe ne bi mogel. Hvala vam.	Lahko bi tudi brez tebe. Hvala vam.				
+			Kako to misliš, da ne veš ?!	Kako to misliš veš ?!				
+			Ne vem, kaj naj rečem, da bi se počutil bolje.	Vem, kaj naj rečem, da se boste počutili bolje.				
+			Ne vem, kaj naj rečem, da bi se počutil bolje.	Vem, kaj naj rečem, da se boste počutili bolje.				
+			Ne veš kdo sem.	Veste, kdo sem.				
+			Rim ni bil zgrajen v enem dnevu.	Rim je bil zgrajen v enem dnevu.				
+			Ne maram se učiti nepravilnih glagolov.	Všeč mi je učenje nepravilnih glagolov.				
+			Pri šestih letih se je naučil uporabljati pisalni stroj in učitelju rekel, da se pisanja ročno ni treba učiti.	Pri šestih letih se je naučil uporabljati pisalni stroj in učitelju rekel, da se mora pisati ročno.				
+			Ne morem si strizati nohtov in likati hkrati!	Lahko si strižem nohte in likam hkrati!				
+			Nočem v šolo.	Hočem iti v šolo.				
+			Upanje ni strategija.	Upanje je strategija.				
+			Ne poznam ga.	Poznam ga.				
+			Ne poznam ga.	Poznam ga.				
+			Ne poznam ga.	Poznam ga.				
+			Nisem vedel, da toliko pije.	Vedela sem, da je toliko pil.				
+			Ne vem, če bi to naredil zame.	Vem, če bi to storil zame.				
+			Ne vem, če bi to naredil zame.	Vem, če bi to storil zame.				
+			Ne strinjam se z njim.	Se strinjam z njim.				
+			Ne strinjam se z njim.	Se strinjam z njim.				
+			Volkovi običajno ne napadajo ljudi.	Volkovi običajno napadajo ljudi.				
+			Pozabi. To ni vredno.	Pozabi. Je vredno.				
+			Nocoj bomo veliko jedli, zato upam, da niste na dieti.	Nocoj bomo veliko jedli, zato upam, da ste na dieti.				
+			Ne smete izkoristiti njene nedolžnosti.	Morate izkoristiti njeno nedolžnost.				
+			Paziti morate, da ga ne razjezite.	Paziti moraš, da ga razjeziš.				
+			Ni ga bilo treba videti do vrat.	Morali ste ga videti do vrat.				
+			V življenju ne smete izgubiti svojega cilja.	Izgubiti morate svoj cilj v življenju.				
+			Ni vam treba hiteti.	Morali ste pohiteti.				
+			Ni vam treba hiteti.	Morali ste pohiteti.				
+			Ne smete se zanašati na takega moškega.	Zanesti se moraš na takega moškega.				
+			Ne smete biti toliko odvisni od drugih.	Tako zelo morate biti odvisni od drugih.				
+			Ni vam treba toliko hiteti.	Morali ste že toliko pohiteti.				
+			Ni vam treba toliko hiteti.	Morali ste že toliko pohiteti.				
+			Ni vam treba toliko hiteti.	Morali ste že toliko pohiteti.				
+			Ni vam treba priti tako zgodaj.	Morali ste priti sem tako zgodaj.				
+			Knjige vam ni bilo treba kupiti.	Knjigo ste morali kupiti.				
+			V tej zadevi nimaš izbire.	V tej zadevi imate izbiro.				
+			Ne vstaneš že kot sestra.	Vstaneš že kot sestra.				
+			Ne morem se strinjati z vašim predlogom.	Lahko se strinjam z vašim predlogom.				
+			Zame je vseeno, ali prideš ali ne.	Vseeno mi je, ali prideš oz.				
+			Naredil bom to, če se strinjate ali ne.	Naredil bom to, če se strinjate ali ne.				
+			Ne maraš me bolj kot ti.	Všeč si mi bolj kot ti meni.				
+			Ne morem se vam dovolj zahvaliti za to, kar ste storili zame.	Lahko se vam zahvalim za to, kar ste storili zame.				
+			Računa ne bi smeli plačati.	Morali bi plačati račun.				
+			Računa ne bi smeli plačati.	Morali bi plačati račun.				
+			Računa ne bi smeli plačati.	Morali bi plačati račun.				
+			Brez sladkega brez znoja.	Brez sladkega brez znoja.				
+			Ne bojte se.	Ne bojte se.				
+			Ali ne boste imeli še enega kozarca mleka?	Ali ne boste imeli še enega kozarca mleka?				
+			Mleko se ne strinja z mano.	Mleko se res strinja z mano.				
+			Prosim, oprostite mi, ker že dolgo nisem pisal.	Prosim, oprostite mi, ker sem že dolgo pisal.				
+			Ni ti bilo treba, da me zbudiš.	Morali ste me zbuditi.				
+			Ni ti bilo treba, da me zbudiš.	Morali ste me zbuditi.				
+			Ne želim se vrniti.	Želim se vrniti nazaj.				
+			Ne bi smeli opustiti upanja.	Morali bi se odreči upanju.				
+			Ne smete se odpovedati upanju.	Upati se moraš.				
+			Ne obupajte se.	Odnehajte upanje.				
+			Nisem se dal odpovedati upanju.	Res sem obupal zaradi pomanjkanja upanja.				
+			Ne bojte se napak.	Ne bojte se napak.				
+			Bojim se da ne.	Bojim se da ne.				
+			Zdi se, da ni več popoln krog.	Zdi se, da je dlje popoln krog.				
+			Ne stopite na razbito steklo.	Stopite na razbito steklo.				
+			Nikamor se ne mudi.	Hiti se.				
+			Nikoli ne oklevajte in povejte resnico.	 oklevajte in povejte resnico.				
+			Ne vem, kako naj odgovorim na to vprašanje.	Vem, kako odgovoriti na to vprašanje.				
+			Ne oklevajte in mi povejte, če kaj potrebujete.	Ne oklevajte in mi povejte, če kaj potrebujete.				
+			Ne oklevajte in vprašajte za nasvet.	Ne oklevajte in vprašajte za nasvet.				
+			V enem tednu lahko preberete deset knjig? Ali ne misliš čez mesec dni?	V enem tednu lahko preberete deset knjig? Misliš čez en mesec?				
+			Marije nismo mislili zapustiti iz načrta.	Nameravali smo pustiti Mary izven načrta.				
+			Ne oklevajte in postavljajte vprašanja, če ne razumete.	Ne oklevajte z vprašanji, če ste razumeli.				
+			Lucy ne more uporabljati palic.	Lucy lahko uporablja palčke.				
+			Ne morem ga več čakati.	Lahko ga čakam dlje.				
+			Ne morem ga več čakati.	Lahko ga čakam dlje.				
+			Komaj čakam več.	Lahko še čakam.				
+			Ne čakam več.	Resnično čakam dlje.				
+			Ne čakam več.	Resnično čakam dlje.				
+			Ni mi treba več nositi očal.	Moram več nositi očala.				
+			Ne morem se več razumeti s sosedi.	S sosedi se lahko še razumem.				
+			Ne najdem očal. Morda sem jih pustil za seboj na vlaku.	Najdem očala. Morda sem jih pustil za seboj na vlaku.				
+			Ne najdem očal.	Najdem očala.				
+			Ali niste videli muzikala?	Ste videli muzikal?				
+			Nikoli se ne bojite napak.	 bojte se napak.				
+			Vizualnih znakov pomladi še vedno ni bilo.	Še vedno so bili vidni znaki pomladi.				
+			Kosila še nisem jedel.	Kosilo sem že pojedel.				
+			Mike na dan zasluži nič manj kot tristo dolarjev.	Mike dnevno zasluži manj kot tristo dolarjev.				
+			Ne pustite me čakati tukaj takole.	Naj me čaka tukaj takole.				
+			Bill zločina ni storil.	Bill je storil zločin.				
+			Ali ne bi želeli še enega kozarca piva?	Ali ne bi želeli še enega kozarca piva?				
+			Golob in noj sta oba ptiča; eden lahko leti, drugi pa ne.	Golob in noj sta oba ptiča; eden lahko leti, drugi pa ne.				
+			Na avtobusni postaji nihče ne čaka. Morda smo zamudili avtobus.	Na avtobusni postaji nihče ne čaka. Morda smo zamudili avtobus.				
+			Tony ni vedel njihovih imen.	Tony je res vedel njihova imena.				
+			Tony ni vedel njihovih imen.	Tony je res vedel njihova imena.				
+			Ne spomnim se, kako iti tja.	Spomnim se, kako sem šel tja.				
+								
+			Ne razumem.	Razumem.				
+			Prosim, ne vstani.	Prosim, vstani.				
+			Prosim, ne vstani.	Prosim, vstani.				
+			Ni toaletnega papirja.	Tam je toaletni papir.				
+			David ima toliko deklet, da se ne more spomniti vseh njihovih imen.	David ima toliko deklet, da se lahko spomni vseh njihovih imen.				
+			Kozarca ne postavljajte blizu roba mize.	Postavite kozarec blizu roba mize.				
+			Ne oklevajte. Povej.	Ne oklevajte. Povej.				
+			Rastline so morale umreti, ker jih ni nihče zalival.	Rastline so morale umreti, ker jih je eden zalival.				
+			Ne oklevajte in me vprašajte.	Ne oklevajte in me vprašajte.				
+			Tako drage knjige vam ni bilo treba kupiti.	Morali ste kupiti tako drago knjigo.				
+			Nisem čakal dolgo, preden je prišel avtobus.	Čakal sem že dolgo preden je prišel avtobus.				
+			Ni vam treba vstati tako zgodaj.	Vstati moraš tako zgodaj.				
+			Ni vam treba vstati tako zgodaj.	Vstati moraš tako zgodaj.				
+			Ni treba, da ste se tako mudili.	Morali ste se tako mudi.				
+			Ni treba, da ste se tako mudili.	Morali ste se tako mudi.				
+			Ni nam treba zajtrkovati tako zgodaj.	Zajtrkovati smo morali že tako zgodaj.				
+			Ni treba panike. Časa je dovolj.	Potrebna je panika. Časa je dovolj.				
+			Nič mi ni do tega.	Res me briga.				
+			Ne spomnim se, kje sem ga kupil.	Spomnim se, kje sem ga kupil.				
+			Ne spomnim se, da bi se s tem strinjal.	Spomnim se, da sem se strinjal s tem.				
+			O tem ni nobenega dvoma.	Ne glede na to obstaja dvom.				
+			Ne vem kaj je.	Vem, kaj je to.				
+			Starka je padla in ni mogla vstati.	Starka je padla in je lahko vstala.				
+			Teorija ni sprejeta.	Teorija je sprejeta.				
+			Ne spusti te skodelice.	Spusti to skodelico.				
+			Kaj takega se ne moreš naučiti prezgodaj.	Kaj takega se lahko naučite prezgodaj.				
+			Ne moti me, da počakam nekaj časa.	Moti me, da počakam nekaj časa.				
+			Daj no! Komaj čakam več.	Daj no! Lahko še čakam.				
+			Nič več je ne čaka.	Čaka jo več koristi.				
+			Te knjige ni vredno prebrati.	To knjigo je vredno prebrati.				
+			Ne igraj se v tej sobi.	Igraj se v tej sobi.				
+			Ta škatla ni tako velika kot tista.	Ta škatla je velika kot tista.				
+			Te besede ne razumem.	Razumem to besedo.				
+			Te besede ne razumem.	Razumem to besedo.				
+			Niso vsi, ki živijo tukaj, bogati.	 vsi, ki tu živijo, so bogati.				
+			Tovrstna zabava zame ne privlači.	Tovrstna zabava me privlači.				
+			Cena bencina je tako visoka, da ne moremo kupiti velikega avtomobila.	Cena bencina je tako visoka, da lahko kupimo velik avto.				
+			Ne omenjajte tega.	Ali ga omenite.				
+			Boga še nihče ni videl.	Boga še nihče ni videl.				
+			Ne zaupajte mu veliko.	Zaupajte mu veliko.				
+			Ne izgledaš tako vroče.	Izgledaš tako vroče.				
+			Ni vam treba hitro teči.	Teči je treba hitro.				
+			Ni vam treba vzeti s seboj dežnika.	Dežnik morate vzeti s seboj.				
+			Ni treba vstati tako zgodaj.	Vstati je treba tako zgodaj.				
+			Na to vprašanje vam ni treba odgovoriti.	Na to vprašanje morate odgovoriti.				
+			Ni vam treba priti sem.	Moraš priti sem.				
+			Tukaj ne bi smel jesti.	Moral bi jesti tukaj.				
+			Nisem hotel prisluškovati vašemu govoru.	Mislil sem prisluhniti vašemu govoru.				
+			Ne morem misliti, da je tvoja zgodba resnična.	Verjetno mislim, da je vaša zgodba resnična.				
+			Ne morem te spremljati.	Lahko te spremljam.				
+			Ne morem ti slediti.	Lahko te spremljam.				
+			Ne morem ti slediti.	Lahko te spremljam.				
+			Ne bi šel tako daleč, da bi rekel, da je vaša teorija popolnoma napačna.	Šel bi tako daleč, da bi rekel, da je vaša teorija popolnoma napačna.				
+			Ni vam bilo treba napisati svojega imena.	Morali ste napisati svoje ime.				
+			Ni vam bilo treba napisati svojega imena.	Morali ste napisati svoje ime.				
+			Ni vam bilo treba napisati svojega imena.	Morali ste napisati svoje ime.				
+			Vaša sestra ne zna govoriti angleško.	Vaša sestra govori angleško.				
+			Nikoli te ne bom pozabil.	Pozabil te bom.				
+			Razočarani so bili, ker niste mogli priti.	Razočarani so bili, da ste lahko prišli.				
+			Ne moti me vstajanje ob šestih.	Moram vstati ob šestih.				
+			Spala sem le dve uri. Ni čudno, da sem zaspan.	Spala sem le dve uri. Ni čudno, da sem zaspan.				
+			Pred desetimi leti njegova teorija ne bi bila splošno sprejeta.	Pred desetimi leti bi bila njegova teorija splošno sprejeta.				
+			Zaenkrat še ni bil najden noben algoritem, ki bi lahko rešil to težavo v polinomnem času.	Zaenkrat še ni bil najden noben algoritem, ki bi lahko rešil to težavo v polinomnem času.				
+			Nikoli mi nisi povedal, da si poročen.	Povedali ste mi, da ste poročeni.				
+			Nikoli mi nisi povedal, da si poročen.	Povedali ste mi, da ste poročeni.				
+			Ni vam treba iti na ples, razen če želite.	Na ples moraš iti, razen če želiš.				
+			Ni vam treba iti na ples, razen če želite.	Na ples moraš iti, če tega ne želiš.				
+			Ni vam treba iti na ples, razen če želite.	Na ples moraš iti, če tega ne želiš.				
+			Tega vam ni treba zdaj.	To moraš storiti zdaj.				
+			Mislim, da danes popoldne ne bo deževalo.	Mislim, da bo danes popoldne deževalo.				
+			Mislim, da danes popoldne ne bo deževalo.	Mislim, da bo danes popoldne deževalo.				
+			Nocoj ne morem s tabo v restavracijo.	Nocoj lahko grem s tabo v restavracijo.				
+			Težava je v tem, da se ne spomnim, kje sem parkiral avto.	Težava je v tem, da se lahko spomnim, kje sem parkiral avto.				
+			Izbira ni.	Obstaja izbira.				
+			Izbira ni.	Obstaja izbira.				
+			Izbira ni.	Obstaja izbira.				
+			Izbira ni.	Obstaja izbira.				
+			Moški, ki sem ga čakal, se ni pojavil.	Prišel je moški, ki sem ga čakal.				
+			Ni nam bilo treba hiteti.	Morali smo pohiteti.				
+			Nimam nobene sestre.	Imam kakšno sestro.				
+			Nimam poguma prositi šefa, da mi posodi njegov avto.	Imam pogum in prosim šefa, da mi posodi njegov avto.				
+			Ne kriči name.	Kriči name.				
+			Ne oklevajte in postavljajte vprašanja, če ne razumete moje razlage.	Vprašajte, če razumete mojo razlago.				
+			Takrat nisem maral piva.	Takrat mi je bilo všeč pivo.				
+			Ne morem si privoščiti, da bi obdržal avto.	Lahko si privoščim obdržati avto.				
+			Še nikoli nisem videl tako lepe mavrice.	 sem videl tako lepo mavrico.				
+			V športu nisem vešč.	V športu sem dober.				
+			Tega nisem vedel.	Vedela sem to.				
+			Tega nisem vedel.	Vedela sem to.				
+			Jaz ne maram jabolk.	Všeč so mi jabolka.				
+			Že dolgo se nisem slišala.	Že dolgo se slišim z njim.				
+			Ponosen sem, da nikoli nisem zamujal v šolo.	Ponosen sem na zamudo v šolo.				
+			Včeraj mi ni bilo treba učiti.	Včeraj sem moral študirati.				
+			Ne maram, da me motijo.	Všeč mi je, da me motijo.				
+			Nisem vajena vstajati zgodaj.	Navajen sem vstajati zgodaj.				
+			Odgovoril je, da ne ve.	Odgovoril je, da je vedel.				
+			Ni mi treba učiti japonščine.	Moram se učiti japonščino.				
+			Ne vem, če to ve.	Vem, če to ve.				
+			O njem sploh ne vem ničesar.	Sploh vem kaj o njem.				
+			Ne maram je.	Všeč mi je.				
